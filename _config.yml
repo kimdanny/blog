@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Danny Toeun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Studying Computer Science at University College London. Korean-blooded Londoner, ML/DL enthusiast"
+  bio              : "Studying Computer Science at University College London.\nKorean-blooded Londoner, ML/DL enthusiast"
   location         : "London, UK"
   email            :
   links:
