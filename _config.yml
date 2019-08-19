@@ -20,7 +20,7 @@ title                    : "Danny Toeun Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Danny Toeun Kim"
-description              : "My Journey of Computer Science"
+description              : "My Journey to Computer Science"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Danny Toeun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Have passion for everything"
+  bio              : "Studying Computer Science at University College London. Korean-blooded Londoner, ML/DL enthusiast"
   location         : "London, UK"
   email            :
   links:
