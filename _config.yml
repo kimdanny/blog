@@ -117,9 +117,10 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:dannykim153@gmail.com
 
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/danny-toeun-kim-5a3948171/"
+      
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
