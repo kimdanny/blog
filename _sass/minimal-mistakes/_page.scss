@@ -15,7 +15,7 @@
   animation-delay: 0.15s;
 
   @include breakpoint($x-large) {
-    max-width: $max-width;
+    max-width: $x-large;
   }
 }
 
@@ -54,7 +54,7 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 3; //1;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -75,7 +75,8 @@
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.9em; //1em;
+    line-height: 2; //원래 없었는데 넣은 
   }
 
   /* paragraph indents */
