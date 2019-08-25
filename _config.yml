@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Danny Toeun Kim"
-  avatar           : "assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Studying Computer Science at University College London. Korean-blooded Londoner, ML/DL enthusiast"
   location         : "London, UK"
   email            :
@@ -311,8 +311,6 @@ defaults:
       comments: true
       share: true
       related: true
-
-######################20190811################################
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
