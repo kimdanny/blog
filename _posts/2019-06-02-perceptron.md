@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "First post"
 date: 2019-06-02
 tags: [first, machine learning]
