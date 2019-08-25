@@ -1,1 +1,0 @@
-sql delete option

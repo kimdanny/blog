@@ -2,72 +2,58 @@
 permalink: /about/
 title: "About"
 ---
+Currently a 2nd year BSc Computer Science student at University College London.
+I am particularly passionate about Machine Learning and Deep Learning.
 
-## Cheolwon Jang(장철원)
 
-* email    : stoicheolwon at gmail dot com
-* git-page : losskatsu.github.io
-
-### Interest
-* Reinforcement Learning
-* Machine Learning
-* Markov Chain Monte Carlo Simulation
-* Probability model
-* High Dimensional Statistics
-* Dimension Reduction
-
-### Work
-
-* **NHN**, 2018.03 ~ present
-* **Krafton**, 2017.04 ~ 2018.02
+## Danny Toeun Kim
 
 ### Education
-* **Florida State University**  
-        PhD dropout in Statistics, US, 2015.08-2017.01
-* **Korea Universiy**  
-        MS in Statistics, Korea, 2012.03-2014.02
-* **Chungbuk National University**  
-        BS in Statistics, Korea, 2005.03-2011.02
+* **Artificial Intelligence BootCamp**  
+  *June 2019 - Sep 2019 (3 months) / Seoul, South Korea*
+  *Korea Advanced Institute of Science and Technology (KAIST)*
+  인공지능 여름 캠프 (양재R&CD 혁신허브 with KAIST & 모두의 연구소 sponsored by Seoul City Government)
+  On June, took an intensive Machine Learning and Data Science online pre-course, provided by the BootCamp. From July to September, by attending 4-5 hours of lectures 5 days a week, I will be covering much deeper part of it, including ANN, CNN, RNN, GAN, RL, NLP and Computer Vision. During the last two months, one group project will be proceeded and be presented on the last day.
 
-### Skills
-* **language**  
-    Python, Scala, R, Java, Matlab, C/C++, Fortran, SAS, SPSS
-* **library**  
-    numpy, matplotlib, pandas, scikit-learn, keras
-* **framework**  
-    Spark, tensorflow
+* **University College London (UCL-CS'21)**  
+  **BSc Computer Science**
+  *Sep 2018 - Jun 2021(expected) / London, UK*
+  Societies
+  - UCL Technology Society
+  - UCL Engineering Society
+
+* **University Preparatory Certificate for Science and Engineering (UPCSE)**
+  **Graduate with Distinction**
+  *Sep 2017 - June 2018 / London, UK*
+  One year intensive A-Level equivalent course in Science and Engineering field.
+  Studied Advanced Mathematics and Biology for elective modules.
+
+* **Sangmoon Highschool**  
+  *Mar 2014 - Feb 2017 / Seoul, South Korea*
+  1. 3 years consecutive class representative
+  2. English Parliamentary Debate Club (3 years)
+  3. Humanities Academy (2 years)
+
+### Stacks
+* **languages**  
+    Python, Java, C, Haskell
+* **libraries**  
+    numpy, pandas, pandas, scikit-learn, keras, matplotlib, seaborn
+* **frameworks**  
+    tensorflow
 * **os**  
-    CentOS, ubuntu, Windows
+    MacOS, Windows, CentOS
+* **Tools**
+    Git/GitHub, Google Colab
 
-### Patents
-* 기계학습 기반의 유니티로 제작된 모바일 게임의 애뮬레이터 매크로 자동 탐지 시스템, 10-2019-0102038, 2019.08.21
+### Projects
+* **Style Transfer Analysis**
+  <!-- blah blah -->
 
-### Domain Knowledge
-* IT security, Game Industry
+### Competitions
+* **Titanic: Machine Learning from Disaster (Kaggle)**
+  public score: 0.80382
+  Top 9%
 
-### Research Experiences
-* High Dimensional and Higher Order Statistics Research Group  
-    2016.09-2016.12
-* Geophysical Fluid Dynamics Institute  
-    2016.05-2016.08
-
-### Talk
-* Special Lecture "Data Scientist" Job introduction,
-    Hanmin High School, Apr 2019, Korea
-* Estimating Hackers in Battle Ground by using Machine Learning, 
-    Bluehole Developer Conference, Sep 2017, Korea
-* Default Probability of Government Employee Pension System and Pay-Peak System, 
-    The Korean Statistical Society Autumn Conference 2014, Oct 2014, Korea
-
-### Honors
-* 개발자 신춘문예 2019 만화부문 장려상, 한빛미디어, May 2019, Korea 
-
-### Publication
-* Jang C, Song S, (2015), "Default Probability of Government Employee Pension System and Wage-peak", 
-Journal of the Korean Data Analysis Society, Vol.17, No.2, pp687-695.
-
-### Teaching Experience
-* Department of Statistics, Korea University, 
-    Teaching Assistant(STAT 232: Mathematical Statistics), Fall 2012, Fall 2013
-* Department of Statistics, Korea University,
-    Teaching Assistant(STAT 221: Probability Theory), Spring 2013
+* **Digit Recognizer (Kaggle)**
+  public score: 0.99000
