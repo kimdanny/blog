@@ -27,13 +27,12 @@ def addTwoParams(a, b):
 Now, your boss is telling you to fix the function to one that takes five parameters and sum them all up.
 What are you going to do?  
 ```python
-def addThreeParams(a, b, c, d, e):
+def addFiveParams(a, b, c, d, e):
   return a + b + c + d + e
 ```
 If your coding style was as above, this blog post will help you survive from your vicious boss.
 
 ## \*args  
-
 ```python
 def adder(*args):
     return sum(args)
@@ -52,4 +51,4 @@ def showArgs(*args):
 print(showArgs(1, 2, 3, 4))		#(1, 2, 3, 4)
 ```
 
-If you've once learned the concept of Functional Programming, you will catch this programming concept quite quickly. This is because this syntax teaches a function *How to process* rather than imperatively order a function *What to do*.
+If you've once learned the concept of Functional Programming, you will catch this programming concept quite quickly. This is because the syntax teaches a function *How to process* rather than imperatively order a function *What to do*.

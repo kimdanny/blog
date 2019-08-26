@@ -118,6 +118,10 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:dannykim153@gmail.com
 
+    - label: "UCL"
+      icon: "fas fa-university"
+      url: "https://www.ucl.ac.uk"
+
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/danny-toeun-kim-5a3948171/"
