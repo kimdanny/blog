@@ -58,4 +58,4 @@ amazing_func2(0.5, algorithm = 89, discreteMath = 98, statistics = 70, programmi
 ```
 Note that you have to specify which index you will use in args tuple by doing args[0]  
 
-These techniques will not only help you write a better programme but also help you have a better understanding on libraries' documentation.
+These techniques will not only help you write a better programme but also help you have a better understanding on plenty of documentations.

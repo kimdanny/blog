@@ -51,4 +51,7 @@ def showArgs(*args):
 print(showArgs(1, 2, 3, 4))		#(1, 2, 3, 4)
 ```
 
-If you've once learned the concept of Functional Programming, you will catch this programming concept quite quickly. This is because the syntax teaches a function *How to process* rather than imperatively order a function *What to do*.
+If you've once learned the concept of Functional Programming, you will catch this programming concept quite quickly. This is because the syntax teaches a function *How to process* rather than imperatively order a function *What to do*.  
+
+*Continue Reading this topic at  
+[How to deal with multiple parameters (2)](https://kimdanny.github.io/programming/python-kwargs/)*
