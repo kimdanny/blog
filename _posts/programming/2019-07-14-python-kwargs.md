@@ -42,6 +42,7 @@ good_func(algorithm = 89, discreteMath = 98, statistics = 70, programming = 95)
 # programming : 95
 ```
 
+## \*args + \**kwargs
 To be more synergistic, you can even use both \*args and \**kwargs as below.  
 
 ```python
