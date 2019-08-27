@@ -5,8 +5,9 @@ title: "About"
 Currently a 2nd year BSc Computer Science student at University College London.
 I am particularly passionate about Machine Learning and Deep Learning.  
 <br/>
-As a title of this blog (**TEKnology**) implies, this is a Technology blog posting site by *To Eun Kim (TEK)*
+As a title of this blog (**TEKnology**) implies, this is a Technology blog posting site by *To Eun Kim (TEK)*  
 
+By the way, if you can understand Korean, you can check out my [Korean blogging site](https://teknology.tistory.com) as well :)
 
 ## Danny Toeun Kim
 

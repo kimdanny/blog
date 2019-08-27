@@ -30,7 +30,7 @@ print "hello world"
 # From python version 3
 print("hello world")
 ```
-The big difference may well cause very annoying problems when working with team members who are using different version of python. Also, some systems are still running under a python 2. To deal with this problem, python developers came up with the solution, which is \__future__ statement.
+The big difference may well cause very annoying problems when working with team members who are using different version of python. Also, some systems are still running under python 2. To deal with this problem, python developers came up with the solution, which is \__future__ statement.
 
 ## from \__future__ import ...
 With inclusion of future statement at the top of your code you can safely maintain the compatibility with other versions that others may use.  
