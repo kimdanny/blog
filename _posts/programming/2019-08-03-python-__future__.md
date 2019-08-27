@@ -1,5 +1,5 @@
 ---
-title: "[Python] What is \__future__ ?"
+title: "[Python] What is __future__ ?"
 categories:
   - programming
 tags:
