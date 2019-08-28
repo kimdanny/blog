@@ -155,7 +155,7 @@ def sigmoid(x):
 
 3. tanh activation
 
-$$tanh(x) = {{e^{x}-e^{-x}}\over{e^{x}+e^{-x}}}$$
+<!-- $$tanh(x) = {{e^{x}-e^{-x}}\over{e^{x}+e^{-x}}}$$ -->
 
 ```python
 def tanh(x):
