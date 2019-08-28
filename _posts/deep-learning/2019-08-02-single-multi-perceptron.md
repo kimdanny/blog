@@ -166,7 +166,7 @@ def tanh(x):
 
 4. ReLU activation
 
-$$ReLU(x)=0$$ if $$\inline x<0$$ else $$\inline x$$
+<!-- $$ReLU(x)=0$$ if $$\inline x<0$$ else $$\inline x$$ -->
 
 ```python
 def ReLU(x):
