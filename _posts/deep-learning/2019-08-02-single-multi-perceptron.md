@@ -111,7 +111,8 @@ for x1, x2 in array:
 
 ## 3. **Multiple Layer Perceptron**
 ![MLP](/images/perceptron/MLP.png)
-
+By connecting multiple number of single perceptrons like our body does, you can create much more complex
+and efficient structure and we call that Multi Layer Perceptron (MLP). Because it has multiple layers, there is a presence of at least one hidden layer, which is not actually connected to the inputs and outputs of the structure. MLP will be discussed much in detail from the next blog post, which is about training the network.
 
 ### 3-1. Implementing XOR Gate with multiple perceptrons
 
