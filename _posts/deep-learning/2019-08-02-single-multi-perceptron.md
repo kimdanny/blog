@@ -110,7 +110,7 @@ for x1, x2 in array:
 ```
 
 ## 3. **Multiple Layer Perceptron**
-![MLP](/images/perceptron/MLP.jpg)
+![MLP](/images/perceptron/MLP.jpg)  
 By connecting multiple number of single perceptrons like our body does, you can create much more complex
 and efficient structure and we call that Multi Layer Perceptron (MLP). Because it has multiple layers, there is a presence of at least one hidden layer, which is not actually connected to the inputs and outputs of the structure. MLP will be discussed much in detail from the next blog post, which is about training the network.
 
@@ -129,10 +129,15 @@ def XOR_gate(x1, x2):
 
 ## 4. **Activation Functions**
 
-Let's find out some more activation functions.
+Let's find out some more activation functions.  
+But before we go on, keep in mind how np.maximum() function works!
+```python
+print(np.maximum(0, np.array([0.5, 0.4, -0.2])))
+# this is the output: [0.5 0.4 0. ]
+```
 
 ### 4-1. Type of activation functions
-1. Softmax activation
+* Softmax activation
 
 ```python
 def softmax(x):
@@ -141,7 +146,7 @@ def softmax(x):
     return nominator / denominator
 ```
 
-2. Sigmoid activation
+* Sigmoid activation
 
 
 ```python
@@ -150,7 +155,7 @@ def sigmoid(x):
     return 1 / denominator
 ```
 
-3. tanh activation
+* tanh activation
 
 ```python
 def tanh(x):
@@ -159,8 +164,7 @@ def tanh(x):
     return nominator / denominator
 ```
 
-4. ReLU activation
-
+* ReLU activation
 
 ```python
 def ReLU(x):
