@@ -12,12 +12,22 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 ## 1. **Neuron**
-where the concept of perceptron came from.
-neuron image
+The idea of perceptron stems from the human's neural network system. A 'Neuron' is one unit that consists of
+the whole neural system. In 1943, Doctor Warren McCulloch and Walter Pitts had suggested a concept of artificial
+computerised neuron, which is a 'Perceptron'.
+
+![neuron](/images/perceptron/neuron_wiki.png)
+<!-- how can i describe an image with small font -->
+
+The image above is a descriptive drawing of a biological neuron. Neurons are connected in a really complex order with each other, and an output signal from one neuron cell heads to the dendrites of its adjacent neuron cell, acting as an input signal to that neuron cell. Those input signals are accumulated in a cell body, and if the accumulated signals exceed a certain threshold, an output signal travels out from the cell through Axon and Telodendria. Below is an image from [Khan academy synapse explanation](https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse), which can help you understand the concept of threshold.
+
+![action potential](/images/perceptron/action_potential_khan.png)
 
 ## 2. **Single Layer Perceptron**
-explanation with image
-explanation about activation function
+![SLP](/images/perceptron/SLP.png)
+Similar to the biological neuron, perceptron has an activation function that decides whether it should output the value or not - as 0. (You will know this is not actually a precise sentence in section 4, but for now, you can understand activation function like i mentioned.)  
+Therefore, an activation_function would be as below.
+
 ```python
 def activation_function(y):
     if y <= 0:
@@ -27,7 +37,7 @@ def activation_function(y):
 ```
 
 ### 2-1. Implementing Logic Gates with perceptrons
-By using the activation_function above, we are going to implement famous logic gates with perceptron.
+By using the activation_function above, we are going to implement some famous logic gates with perceptron.
 
 1. AND Gate
 ```python
@@ -68,10 +78,46 @@ def NAND_gate(x1, x2):
     return activation_function(y)
 ```
 
+```python
+print('OR Gate')
+for x1, x2 in array:
+    print('Input: ', x1, x2, ', Output: ', OR_gate(x1, x2))
+
+print('NAND Gate')
+for x1, x2 in array:
+    print('Input: ', x1, x2, ', Output: ', NAND_gate(x1, x2))
+
+print('AND Gate')
+for x1, x2 in array:
+    print('Input: ', x1, x2, ', Output: ', AND_gate(x1, x2))
+
+# Terminal output
+# OR Gate
+# Input:  0 0 , Output:  0
+# Input:  0 1 , Output:  1
+# Input:  1 0 , Output:  1
+# Input:  1 1 , Output:  1
+# NAND Gate
+# Input:  0 0 , Output:  1
+# Input:  0 1 , Output:  1
+# Input:  1 0 , Output:  1
+# Input:  1 1 , Output:  0
+# AND Gate
+# Input:  0 0 , Output:  0
+# Input:  0 1 , Output:  0
+# Input:  1 0 , Output:  0
+# Input:  1 1 , Output:  1
+```
+
 ## 3. **Multiple Layer Perceptron**
-explanation with image
+![MLP](/images/perceptron/MLP.png)
+
 
 ### 3-1. Implementing XOR Gate with multiple perceptrons
+
+With Multiple layers of perceptron you can implement one more logic gate that you couldn't do
+with just single perceptron. It is XOR Gate.
+
 4. XOR Gate
 ```python
 def XOR_gate(x1, x2):
@@ -82,8 +128,13 @@ def XOR_gate(x1, x2):
 
 ## 4. **Activation Functions**
 
+Let's find out some more activation functions.
+
 ### 4-1. Type of activation functions
 1. Softmax activation
+
+$$softmax(x_{i}) = {e^{x_i} \over \sum_{j}e^{x_j}} $$
+
 ```python
 def softmax(x):
     nominator = np.exp(x)
@@ -92,6 +143,9 @@ def softmax(x):
 ```
 
 2. Sigmoid activation
+
+$$Sigmoid(x)={1 \over {1+e^{-x}}}$$
+
 ```python
 def sigmoid(x):
     denominator = 1 + np.exp(-x)
@@ -99,6 +153,9 @@ def sigmoid(x):
 ```
 
 3. tanh activation
+
+$$tanh(x) = {{e^{x}-e^{-x}\over{e^{x}+e^{-x}}$$
+
 ```python
 def tanh(x):
     nominator = np.exp(x) - np.exp(-x)
@@ -107,6 +164,9 @@ def tanh(x):
 ```
 
 4. ReLU activation
+
+$$ReLU(x)=0$$ if $$\inline x<0$$ else $$\inline x$$
+
 ```python
 def ReLU(x):
     return np.maximum(0, x)
@@ -153,7 +213,14 @@ print('maximum value is {}, which has index {}'.format(np.round(max_value, 5), m
 # Result from Softmax: [2.0000e-05 0.0000e+00 1.4000e-04 3.7883e-01 2.3000e-04 6.4020e-02
 #                       1.0410e-01 4.5238e-01 1.0000e-05 2.8000e-04]
 # maximum value is 0.45238, which has index 7
-```
+```  
+
+[Next post](https://kimdanny.github.io/deep-learning/learning-algo-perceptron/) will discuss how we can train a network with just perceptrons.
 
 
-## References
+<!-- commentise below -->
+<!-- <References>
+1. neuron image: https://en.wikipedia.org/wiki/Neuron
+2. action potential image: https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse
+3. SLP image: https://mc.ai/pytorch-introduction-to-neural-network%E2%80%8A-%E2%80%8Afeedforward-neural-network-model/
+4. MLP image: https://www.oreilly.com/library/view/getting-started-with/9781786468574/ch04s04.html -->
