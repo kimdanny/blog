@@ -134,7 +134,7 @@ Let's find out some more activation functions.
 ### 4-1. Type of activation functions
 1. Softmax activation
 
-$$softmax(x_{i}) = {e^{x_i} \over \sum_{j}e^{x_j}} $$
+<!-- $$softmax(x_{i}) = {e^{x_i} \over \sum_{j}e^{x_j}}$$ -->
 
 ```python
 def softmax(x):
@@ -145,7 +145,7 @@ def softmax(x):
 
 2. Sigmoid activation
 
-$$Sigmoid(x)={1 \over {1+e^{-x}}}$$
+<!-- $$Sigmoid(x)={1 \over {1+e^{-x}}}$$ -->
 
 ```python
 def sigmoid(x):
