@@ -134,8 +134,6 @@ Let's find out some more activation functions.
 ### 4-1. Type of activation functions
 1. Softmax activation
 
-<!-- $$softmax(x_{i}) = {e^{x_i} \over \sum_{j}e^{x_j}}$$ -->
-
 ```python
 def softmax(x):
     nominator = np.exp(x)
@@ -145,7 +143,6 @@ def softmax(x):
 
 2. Sigmoid activation
 
-<!-- $$Sigmoid(x)={1 \over {1+e^{-x}}}$$ -->
 
 ```python
 def sigmoid(x):
@@ -154,8 +151,6 @@ def sigmoid(x):
 ```
 
 3. tanh activation
-
-<!-- $$tanh(x) = {{e^{x}-e^{-x}}\over{e^{x}+e^{-x}}}$$ -->
 
 ```python
 def tanh(x):
@@ -166,7 +161,6 @@ def tanh(x):
 
 4. ReLU activation
 
-<!-- $$ReLU(x)=0$$ if $$\inline x<0$$ else $$\inline x$$ -->
 
 ```python
 def ReLU(x):
