@@ -27,7 +27,7 @@ showDict(a=80, b=70, c=20, d=100)  # {'a': 80, 'b': 70, 'c': 20, 'd': 100}
 As you could check above, the parameter with two asterisk \**kwargs accepts multiple arguments that has a form of
 'keyword=value' and stores those in a dictionary variable.  
 
-Now, if you utilise .key() function, this can bring about really synergistic effect like below.
+Now, if you utilise .keys() function, this can bring about really synergistic effect like below.
 
 ```python
 def good_func(**kwargs):
