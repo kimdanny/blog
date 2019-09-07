@@ -56,6 +56,7 @@ def AND_gate(x1, x2):
     return activation_function(y)
 ```
 
+
 2. OR Gate
 ```python
 def OR_gate(x1, x2):
@@ -138,6 +139,9 @@ print(np.maximum(0, np.array([0.5, 0.4, -0.2])))
 
 ### 4-1. Type of activation functions
 * Softmax activation
+
+
+$$ E = mc^2 $$
 
 ```python
 def softmax(x):
