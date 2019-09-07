@@ -140,7 +140,7 @@ print(np.maximum(0, np.array([0.5, 0.4, -0.2])))
 ### 4-1. Type of activation functions
 * Softmax activation
 
-\[p(\theta) = \mathbf{\prod}_{i,c}p(\mathbf{\theta}^i(c))\]
+$$softmax(x) = x + y $$
 
 ```python
 def softmax(x):
