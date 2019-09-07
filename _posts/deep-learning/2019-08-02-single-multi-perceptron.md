@@ -140,7 +140,7 @@ print(np.maximum(0, np.array([0.5, 0.4, -0.2])))
 ### 4-1. Type of activation functions
 * Softmax activation
 
-$$softmax(x_{i}) = {e^{x_i} \over \sum_{j}e^{x_j}}$$
+\[p(\theta) = \mathbf{\prod}_{i,c}p(\mathbf{\theta}^i(c))\]
 
 ```python
 def softmax(x):
@@ -151,7 +151,6 @@ def softmax(x):
 
 * Sigmoid activation
 
-$$Sigmoid(x)={1 \over {1+e^{-x}}}$$
 
 ```python
 def sigmoid(x):
@@ -161,7 +160,6 @@ def sigmoid(x):
 
 * tanh activation
 
-$$tanh(x) = {{e^{x}-e^{-x}}\over{e^{x}+e^{-x}}}$$
 
 ```python
 def tanh(x):
@@ -171,8 +169,6 @@ def tanh(x):
 ```
 
 * ReLU activation
-
-$$ReLU(x)=0$$ if $$\inline x<0$$ else $$\inline x$$
 
 ```python
 def ReLU(x):
