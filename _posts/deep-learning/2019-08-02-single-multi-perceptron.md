@@ -151,6 +151,7 @@ def softmax(x):
 
 * Sigmoid activation
 
+$$sigmoid(x) = { 1 \over 1 + e^{-x} }$$
 
 ```python
 def sigmoid(x):
