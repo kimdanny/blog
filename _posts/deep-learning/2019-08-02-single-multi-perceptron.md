@@ -161,6 +161,7 @@ def sigmoid(x):
 
 * tanh activation
 
+$$tanh(x) = { {e^{x} - e^{-x}} \over {e^{x} + e^{-x}} }$$
 
 ```python
 def tanh(x):
