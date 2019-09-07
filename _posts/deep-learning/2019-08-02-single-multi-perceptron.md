@@ -140,7 +140,7 @@ print(np.maximum(0, np.array([0.5, 0.4, -0.2])))
 ### 4-1. Type of activation functions
 * Softmax activation
 
-$$softmax(x_{i}) = { e^{x_i} \over {x} }$$
+$$softmax(x_{i}) = { e^{x_i} \over \sum_{j}e^{x_j} }$$
 
 ```python
 def softmax(x):
