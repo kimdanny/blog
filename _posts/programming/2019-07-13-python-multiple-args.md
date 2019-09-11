@@ -7,7 +7,7 @@ tags:
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
-head: "This post belongs to **pyFun** tag. pyFun posts consist of 
+header: "This post belongs to **pyFun** tag. pyFun posts consist of 
        advanced level python syntaxes or skills that are not really obvious
        [here](google.com) is the link to the *posts by pyFun tags*.
       "
