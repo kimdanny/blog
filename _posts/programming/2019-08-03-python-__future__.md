@@ -9,11 +9,9 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
----------------------------
 This post belongs to **pyFun** tag. pyFun posts consist of 
 advanced level python syntaxes or skills that are not really obvious
-You can search *'pyFun'* in the search bar above to explicitly look up the *posts by pyFun tags*.
----------------------------
+You can search *'pyFun'* in the search bar above to explicitly look up the *posts by pyFun tags*.  
 
 ```python
 from __future__ import absolute_import, division, print_function,
