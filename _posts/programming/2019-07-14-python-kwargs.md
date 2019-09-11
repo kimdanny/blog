@@ -3,10 +3,14 @@ title: "[Python] How to deal with multiple parameters (2)"
 categories:
   - programming
 tags:
-  - python
+  - pyFun
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+head: "This post belongs to **pyFun** tag. pyFun posts consist of 
+       advanced level python syntaxes or skills that are not really obvious
+       [here](google.com) is the link to the *posts by pyFun tags*.
+      "
 ---
 *This post is continued from  
 [How to deal with multiple parameters (1)](https://kimdanny.github.io/programming/python-multiple-args/)*  

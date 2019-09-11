@@ -3,10 +3,14 @@ title: "[Python] How to deal with multiple parameters (1)"
 categories:
   - programming
 tags:
-  - python
+  - pyFun
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+head: "This post belongs to **pyFun** tag. pyFun posts consist of 
+       advanced level python syntaxes or skills that are not really obvious
+       [here](google.com) is the link to the *posts by pyFun tags*.
+      "
 ---
 ## Normally We've done this like...
 Probably the majority of experienced python programmers would have encountered this wonderful syntax and

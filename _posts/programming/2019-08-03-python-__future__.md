@@ -3,10 +3,14 @@ title: "[Python] What is __future__ ?"
 categories:
   - programming
 tags:
-  - python
+  - pyFun
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+head: "This post belongs to **pyFun** tag. pyFun posts consist of 
+       advanced level python syntaxes or skills that are not really obvious
+       [here](google.com) is the link to the *posts by pyFun tags*.
+      "
 ---
 ```python
 from __future__ import absolute_import, division, print_function,
