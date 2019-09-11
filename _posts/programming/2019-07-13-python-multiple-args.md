@@ -7,11 +7,12 @@ tags:
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
-header: "This post belongs to **pyFun** tag. pyFun posts consist of 
-       advanced level python syntaxes or skills that are not really obvious
-       [here](google.com) is the link to the *posts by pyFun tags*.
-      "
 ---
+---------------------------
+This post belongs to **pyFun** tag. pyFun posts consist of 
+advanced level python syntaxes or skills that are not really obvious.
+You can search *'pyFun'* in the search bar above to explicitly look up the *posts by pyFun tags*.
+---------------------------
 ## Normally We've done this like...
 Probably the majority of experienced python programmers would have encountered this wonderful syntax and
 have already incorporated this method to their programming skills or style I guess.  
