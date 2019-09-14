@@ -3,14 +3,14 @@ title: "[Python] How to deal with multiple parameters (1)"
 categories:
   - programming
 tags:
-  - pyFun
+  - deep dive python
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-This post belongs to **pyFun** tag. pyFun posts consist of 
-advanced level python syntaxes or skills that are not really obvious.
-You can search *'pyFun'* in the search bar above to explicitly look up the *posts by pyFun tags*.  
+This post belongs to **deep dive python** tag. Deep dive python posts consist of 
+advanced-level python syntax or skills that are not really obvious.
+You can search *'deep dive python'* in the search bar above to explicitly look up the *posts by deep dive python tags*.  
 
 ## Normally We've done this like...
 Probably the majority of experienced python programmers would have encountered this wonderful syntax and
