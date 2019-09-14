@@ -13,7 +13,7 @@ advanced-level python syntax or skills that are not really obvious.
 You can search *'deep dive python'* in the search bar above to explicitly look up the *posts by deep dive python tags*.  
 
 ## Iterables / Iterator
-#### **Iterables**
+### **Iterables**
 Iterable is literally an object that can be iterated (looped) over.
 Iterable object has an '\__iter__()' method in its definition, which returns an iterator.
 Every iterables can be looped over using a 'for' statement as below.
@@ -36,7 +36,7 @@ for char in "123":
 for line in open("sample.txt"):
     print(line)
 ```
-#### **Iterator**
+### **Iterator**
 These operations (eg. for) that help iterables iterate through its elements are called iterator.
 Thus, whenever we use 'for' loop, we are actually using an iterator, and they are an object with a '\__next()__' method.
 In fact, the for statement is calling a 'next()' method at every step to get single elements from the container.
@@ -83,7 +83,7 @@ Generators are one of the useful ways to create iterators.
 If a container object’s \__iter__() method is implemented as a generator, it will return a generator object, 
 supplying the \__iter__() and \__next__() methods.
 
-##### Simple Generator
+### Simple Generator
 For simple Generators, you can use list comprehension. 
 You just simply write list comprehension statement inside the parentheses.
 Below shows that created generator object supplies the \__iter()__ and \__next()__ method.
@@ -104,7 +104,7 @@ for i in sampleGenerator:
 
 print(next(sampleGenerator))    # StopIteration
 ```
-##### More complex Generator
+### More complex Generator
 You can make Generator in a different way for more complex operations.
 When creating function-like Generators, you write code that are really similar to the normal function definition.
 One little difference is that you write `yield` instead of `return`. Once you write `yield`, the function you've made will return a Generator.
@@ -127,7 +127,7 @@ print(next(generator))
 ```
 
 Terminal output:
-```bash
+```
 1 has been yielded
 2 has been yielded
 3 has been yielded
