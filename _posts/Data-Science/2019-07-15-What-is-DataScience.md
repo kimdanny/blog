@@ -4,9 +4,8 @@ categories:
   - Data-Science
 tags:
   - Data-Science
-  - machine-learning
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-This is Data Science post
+If you can understand Korean, you can check out this topic **in Korean** from my [Korean Blog](https://teknology.tistory.com/3)
