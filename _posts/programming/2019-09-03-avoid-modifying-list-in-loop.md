@@ -68,7 +68,7 @@ index: 4, item: 4
 index: 5, item: 6
 messed up list: [0, 1, 2, 3, 4]
 ```
-Where has index 6 and 7 gone?  
+Where have the index 6 and 7 gone?  
 Why the list still contains 0 and 3, which are divisible by three?
 
 ### 1-2. Possible error 2 - Index Out of Range
