@@ -8,9 +8,6 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-Disclaimer: This is my personal opinion from my past experience.  
-Denies judgemental opinion but welcomes criticism!!
-
 ## 1. Bad Programming style that I had in the past
 While programming, at a really high chance, we encounter a situation that we need to modify a list.
 For example, we often check a certain condition(s) of each element in the list while looping through the list. 
@@ -137,4 +134,9 @@ Possible solutions are:
 5. Get separate list that contains indices that has to be removed
 6. Use copy of a list and iterate through it and modify the original
 
-You can see much better code for 'sortByParity' from [my github repo/leetcode/sort-array-by-parity](https://github.com/kimdanny/leet-code/blob/master/Sort_array_by_parity.py)
+You can see much better code for 'sortByParity' from [my github repo/leetcode/sort-array-by-parity](https://github.com/kimdanny/leet-code/blob/master/Sort_array_by_parity.py)  
+
+Disclaimer: This is my personal opinion from my past experience.  
+Denies judgemental opinions but welcomes criticism!!
+
+
