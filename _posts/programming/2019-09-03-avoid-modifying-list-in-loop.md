@@ -17,7 +17,7 @@ The following consequence is that **you mess around with an index arrangement**.
 The byproduct you made as a result of the bad coding style costs a lot, especially when the loop is huge and does complex operations.  
 Hate Debugging!! innit!  
 
-Let me show you one of my past solution from LeetCode problem:
+Let me show you one of my past solution from LeetCode problem:  
 (It was about sorting array by parity. Given an array A of non-negative integers, 
 i had to return an array consisting of all the even elements of A, followed by all the odd elements of A)
 
@@ -97,7 +97,7 @@ I know, this question is really easy as well. Because it is only called once whe
 If the for loop checks the length of its input data every time it finishes one iteration, why would've those errors be occurred from the beginning?  
 
 But can you prove it?  
-Not-really-obvious part starts from here (at least i think it is)  
+Not-really-obvious part starts from here (at least i think it is).  
 
 You can make function for checking function call and put that into the loop.
 ```python
@@ -131,8 +131,8 @@ Possible solutions are:
 2. Try using while loop instead of for loop. (while-loop can be a low-level approach for a for-loop, so you can get a direct control of indices)
 3. Create a new filtered list by appending some elements you need rather than deleting it
 4. Import itertools (only for python) - check [Iterables and Generators(2)](https://kimdanny.github.io/programming/itertools-flattening-list/)
-5. Get separate list that contains indices that has to be removed
-6. Use copy of a list and iterate through it and modify the original
+5. Get a separate list that contains indices that has to be removed
+6. Use a copy of a list and iterate through it and modify the original
 
 You can see much better code for 'sortByParity' from [my github repo/leetcode/sort-array-by-parity](https://github.com/kimdanny/leet-code/blob/master/Sort_array_by_parity.py)  
 
