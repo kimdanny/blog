@@ -138,5 +138,3 @@ You can see much better code for 'sortByParity' from [my github repo/leetcode/so
 
 Disclaimer: This is my personal opinion from my past experience.  
 Denies judgemental opinions but welcomes criticism!!
-
-
