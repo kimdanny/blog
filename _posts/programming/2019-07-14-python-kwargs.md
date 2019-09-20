@@ -1,7 +1,7 @@
 ---
 title: "[Python] How to deal with multiple parameters (2)"
 categories:
-  - programming
+  - Programming
 tags:
   - deep dive python
 toc: true

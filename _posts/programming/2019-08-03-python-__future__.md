@@ -1,7 +1,7 @@
 ---
 title: "[Python] What is __future__ ?"
 categories:
-  - programming
+  - Programming
 tags:
   - deep dive python
 toc: true

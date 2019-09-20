@@ -1,7 +1,7 @@
 ---
-title: "[Git/Github] Safe removal of previous commits"
+title: "Safe removal of previous commits"
 categories:
-  - git
+  - Git/Github
 tags:
   - git
   - github
