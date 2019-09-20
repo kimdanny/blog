@@ -1,7 +1,7 @@
 ---
 title: "[Perceptron] Learning Algorithm with Perceptrons"
 categories:
-  - Deep-Learning
+  - deep-learning
 tags:
   - perceptron
   - deep-learning
