@@ -1,7 +1,7 @@
 ---
 title: "[Quick tip] Avoid modifying lists during iteration"
 categories:
-  - Programming
+  - programming
 tags:
   - deep dive python
 toc: true

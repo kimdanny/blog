@@ -1,7 +1,7 @@
 ---
 title: "[Python] Iterables and Generators (2) - itertools and Flattening a multi-dimensional list"
 categories:
-  - Programming
+  - programming
 tags:
   - deep dive python
 toc: true

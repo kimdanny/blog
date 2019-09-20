@@ -1,7 +1,7 @@
 ---
 title: "[Python] Iterables and Generators (1) - theory"
 categories:
-  - Programming
+  - programming
 tags:
   - deep dive python
 toc: true

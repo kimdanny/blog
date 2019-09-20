@@ -1,7 +1,7 @@
 ---
 title: "[Perceptron] Single and Multi-Layer Perceptron"
 categories:
-  - Deep Learning
+  - Deep-Learning
 tags:
   - perceptron
   - activation function
