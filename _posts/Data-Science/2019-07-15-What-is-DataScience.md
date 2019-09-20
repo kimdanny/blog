@@ -1,7 +1,7 @@
 ---
 title: "What is Data Science?"
 categories:
-  - Data-Science
+  - data-science
 tags:
   - Data-Science
 toc: true
