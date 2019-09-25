@@ -6,7 +6,8 @@ toc_label: "Quick Guide"
 toc_icon: "cog"
 ---
 Currently a 2nd year BSc Computer Science student at University College London.
-I am particularly passionate about Machine Learning and Deep Learning.  
+I am particularly passionate about Machine Learning and Deep Learning.
+To request my CV, please send me an [email](mailto:dannykim153@gmail.com)
 <br/>
 As a title of this blog (**TEKnology**) implies, this is a Tech-related blog posting site by *To Eun Kim (TEK)*  
 
@@ -27,7 +28,7 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   - Discrete Mathematics for Computer Science
   - Engineering Challenge (Hardware Engineering with MIPS and Quartus Prime)
   - Object Oriented Programming (Java)
-  - Principles of Programming (C and Haskell)
+  - Principles of Programming (C, Haskell and Arduino)
   - Theory of Computation
   
   **Modules - 2nd Year**
@@ -40,8 +41,8 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   - Engineering Mathematics for Finance (Elective module)
   
   **Societies**
-  - Member of UCL Technology Society
-  - Member of UCL Engineering Society
+  - Member of UCL Technology Society (Hackathons)
+  - Member of UCL Engineering Society (Joined Drone Project)
   - Member of UCL Data Science Society
 
 * **University Preparatory Certificate for Science and Engineering (UPCSE)**  
@@ -62,7 +63,10 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   *June 2019 - Sep 2019 (3 months) / Seoul, South Korea*  
   *Korea Advanced Institute of Science and Technology (KAIST)*  
   인공지능 여름 캠프 (양재R&CD 혁신허브 with KAIST & 모두의 연구소 sponsored by Seoul City Government)
-  On June, took an intensive Machine Learning and Data Science online pre-course, provided by the BootCamp. From July to September, by attending 4-5 hours of lectures 5 days a week, I will be covering much deeper part of it, including ANN, CNN, RNN, GAN, RL, NLP and Computer Vision. During the last two months, one group project will be proceeded and be presented on the last day.
+  On June, took an intensive Machine Learning and Data Science online pre-course, provided by the BootCamp.
+  From July to September, by attending 4-5 hours of lectures 5 days a week, I will be covering much deeper part of it, 
+  including ANN, CNN, RNN, GAN, RL, NLP and Computer Vision. 
+  During the last two months, one group project will be proceeded and be presented on the last day.
 
 * **Invited Participant at Bank of America Merrill Lynch**
   *October 2018 / London, UK / at UCL*
@@ -79,13 +83,13 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   as well as engineering at Google in general. 
 
 ### Stacks
-* **languages**    
+* **Languages**    
     Python, Java, C, Haskell
-* **libraries**  
+* **Libraries**  
     numpy, pandas, scikit-learn, keras, matplotlib, seaborn
-* **frameworks**  
+* **Frameworks**  
     tensorflow
-* **os**  
+* **OS**  
     MacOS, Windows, CentOS
 * **Tools**  
     Git/GitHub, Google Colab
