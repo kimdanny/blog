@@ -12,11 +12,6 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 ## Danny Toeun Kim
 
 ### Education
-* **Artificial Intelligence BootCamp**
-  *June 2019 - Sep 2019 (3 months) / Seoul, South Korea*  
-  *Korea Advanced Institute of Science and Technology (KAIST)*  
-  인공지능 여름 캠프 (양재R&CD 혁신허브 with KAIST & 모두의 연구소 sponsored by Seoul City Government)
-  On June, took an intensive Machine Learning and Data Science online pre-course, provided by the BootCamp. From July to September, by attending 4-5 hours of lectures 5 days a week, I will be covering much deeper part of it, including ANN, CNN, RNN, GAN, RL, NLP and Computer Vision. During the last two months, one group project will be proceeded and be presented on the last day.
 
 * **University College London (UCL-CS'21)**  
   **BSc Computer Science**  
@@ -36,6 +31,28 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   1. 3 years consecutive class representative
   2. English Parliamentary Debate Club (3 years)
   3. Humanities Academy (2 years)
+
+
+### Relevant Experience
+* **Artificial Intelligence BootCamp**
+  *June 2019 - Sep 2019 (3 months) / Seoul, South Korea*  
+  *Korea Advanced Institute of Science and Technology (KAIST)*  
+  인공지능 여름 캠프 (양재R&CD 혁신허브 with KAIST & 모두의 연구소 sponsored by Seoul City Government)
+  On June, took an intensive Machine Learning and Data Science online pre-course, provided by the BootCamp. From July to September, by attending 4-5 hours of lectures 5 days a week, I will be covering much deeper part of it, including ANN, CNN, RNN, GAN, RL, NLP and Computer Vision. During the last two months, one group project will be proceeded and be presented on the last day.
+
+* **Invited Participant at Bank of America Merrill Lynch**
+  *October 2018 / London, UK / at UCL*
+  Invitation-only technical workshop.
+  Found out more about the important role of 'Technology division' has in the running of their business. 
+  Had the chance to do network with a number of representatives from Analyst up to Director level. 
+  Was given an insight into the campus programs, and what they look for in students.
+
+* **Google Technical Workshop**
+  *October 2018 / London, UK / at UCL*
+  Google Technical Workshop / Engineering at Google (hosted by UCL technology society)
+  Google engineers pulled back the curtains on the interview process and walked through a practice question. 
+  Took part in a tech talk on the the Google Calendar backend services. Learned about software and site reliability engineering, 
+  as well as engineering at Google in general. 
 
 ### Stacks
 * **languages**    
