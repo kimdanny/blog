@@ -1,6 +1,9 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
+toc_label: "Quick Guide"
+toc_icon: "cog"
 ---
 Currently a 2nd year BSc Computer Science student at University College London.
 I am particularly passionate about Machine Learning and Deep Learning.  
@@ -15,10 +18,31 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 
 * **University College London (UCL-CS'21)**  
   **BSc Computer Science**  
-  *Sep 2018 - Jun 2021(expected) / London, UK*  
-  Societies
-  - UCL Technology Society
-  - UCL Engineering Society
+  *Sep 2018 - Jun 2021(expected) / London, UK*
+  
+  **Modules - 1st Year**
+  - Algorithms
+  - Compilers
+  - Design and Professional Skills (Debugging Skills and Python Programming)
+  - Discrete Mathematics for Computer Science
+  - Engineering Challenge (Hardware Engineering with MIPS and Quartus Prime)
+  - Object Oriented Programming (Java)
+  - Principles of Programming (C and Haskell)
+  - Theory of Computation
+  
+  **Modules - 2nd Year**
+  - Systems Engineering
+  - Software Engineering
+  - Computer Architecture and Concurrency
+  - Logic and Database Theory
+  - Mathematics and Statistics
+  - Security
+  - Engineering Mathematics for Finance (Elective module)
+  
+  **Societies**
+  - Member of UCL Technology Society
+  - Member of UCL Engineering Society
+  - Member of UCL Data Science Society
 
 * **University Preparatory Certificate for Science and Engineering (UPCSE)**  
   **Graduate with Distinction**  
