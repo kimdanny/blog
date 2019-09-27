@@ -22,16 +22,16 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   *Sep 2018 - Jun 2021(expected) / London, UK*
   
   **Modules - 1st Year**
-  - Algorithms
+  - Algorithms (Data Structure and Algorithms)
   - Compilers
   - Design and Professional Skills (Debugging Skills and Python Programming)
   - Discrete Mathematics for Computer Science
-  - Engineering Challenge (Hardware Engineering with MIPS and Quartus Prime)
-  - Object Oriented Programming (Java)
-  - Principles of Programming (C, Haskell and Arduino)
+  - Engineering Challenges (Hardware Engineering with FPGA, MIPS and Quartus Prime)
+  - Object Oriented Programming (Java, Tomcat, JSP)
+  - Principles of Programming (C, Haskell, Arduino)
   - Theory of Computation
   
-  **Modules - 2nd Year**
+  **Modules - Penultimate Year**
   - Systems Engineering
   - Software Engineering
   - Computer Architecture and Concurrency
@@ -41,19 +41,19 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   - Engineering Mathematics for Finance (Elective module)
   
   **Societies**
-  - Member of UCL Technology Society (Hackathons)
+  - Member of UCL Technology Society (Hackathons and Tech-Talks)
   - Member of UCL Engineering Society (Joined Drone Project)
-  - Member of UCL Data Science Society
-
+  - Member of UCL Data Science Society (DS-with-Python Tutorials)
+  
 * **University Preparatory Certificate for Science and Engineering (UPCSE)**  
   **Graduate with Distinction**  
-  *Sep 2017 - June 2018 / London, UK*  
-  One year intensive A-Level equivalent course in Science and Engineering field.
+  *Sep 2017 - June 2018 / UCL Institute of Education, London, UK*  
+  One year intensive A-Level equivalent course for Science and Engineering field.
   Studied Advanced Mathematics and Biology for elective modules.
 
 * **Sangmoon Highschool**   
   *Mar 2014 - Feb 2017 / Seoul, South Korea*  
-  1. 3 years consecutive class representative
+  1. Three years consecutive class representative
   2. English Parliamentary Debate Club (3 years)
   3. Humanities Academy (2 years)
 
@@ -64,7 +64,7 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   *Korea Advanced Institute of Science and Technology (KAIST)*  
   AI School 실무자 양성과정 3기 (@양재 R&CD 혁신허브 with KAIST & 모두의 연구소 sponsored by Seoul City Government)
   On June, took an intensive Machine Learning and Data Science online pre-course, provided by the BootCamp. 
-  From July to August by attending 4-5 hours of lectures 5 days a week, I covered much deeper part of it, 
+  From July to August by attending 5 hours of lectures 5 days a week, I covered much deeper part of it, 
   including CNN, RNN and NLP to name just a few. 
   During the last two months, two group projects (Kaggle Titanic & Deep Neural Style Transfer) 
   and an individual project (MINIST Digit Recognizer) were proceeded and delivered a presentation on the last day.
