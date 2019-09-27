@@ -7,8 +7,8 @@ toc_icon: "cog"
 ---
 Currently a 2nd year BSc Computer Science student at University College London.
 I am particularly passionate about Machine Learning and Deep Learning.
-To request my CV, please send me an [email](mailto:dannykim153@gmail.com)
-<br/>
+To request my CV, please send me an [email](mailto:dannykim153@gmail.com).  
+
 As a title of this blog (**TEKnology**) implies, this is a Tech-related blog posting site by *To Eun Kim (TEK)*  
 
 By the way, if you can understand Korean, you can check out my [Korean blogging site](https://teknology.tistory.com) as well :)
@@ -62,12 +62,13 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 * **Artificial Intelligence BootCamp**
   *June 2019 - Sep 2019 (3 months) / Seoul, South Korea*  
   *Korea Advanced Institute of Science and Technology (KAIST)*  
-  인공지능 여름 캠프 (양재R&CD 혁신허브 with KAIST & 모두의 연구소 sponsored by Seoul City Government)
-  On June, took an intensive Machine Learning and Data Science online pre-course, provided by the BootCamp.
-  From July to September, by attending 4-5 hours of lectures 5 days a week, I will be covering much deeper part of it, 
-  including ANN, CNN, RNN, GAN, RL, NLP and Computer Vision. 
-  During the last two months, one group project will be proceeded and be presented on the last day.
-
+  AI School 실무자 양성과정 3기 (@양재 R&CD 혁신허브 with KAIST & 모두의 연구소 sponsored by Seoul City Government)
+  On June, took an intensive Machine Learning and Data Science online pre-course, provided by the BootCamp. 
+  From July to August by attending 4-5 hours of lectures 5 days a week, I covered much deeper part of it, 
+  including CNN, RNN and NLP to name just a few. 
+  During the last two months, two group projects (Kaggle Titanic & Deep Neural Style Transfer) 
+  and an individual project (MINIST Digit Recognizer) were proceeded and delivered a presentation on the last day.
+  
 * **Invited Participant at Bank of America Merrill Lynch**
   *October 2018 / London, UK / at UCL*
   Invitation-only technical workshop.
@@ -86,16 +87,16 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 * **Languages**    
     Python, Java, C, Haskell
 * **Libraries**  
-    numpy, pandas, scikit-learn, keras, matplotlib, seaborn
+    numpy, pandas, scikit-learn, opencv, matplotlib, seaborn
 * **Frameworks**  
-    tensorflow
+    Tensorflow, Keras
 * **OS**  
     MacOS, Windows, CentOS
 * **Tools**  
     Git/GitHub, Google Colab
 
 ### Projects
-* **Style Transfer Analysis**  
+* **Deep Neural Style Transfer Analysis**
   <!-- blah blah -->
 
 ### Competitions
