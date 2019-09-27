@@ -1,12 +1,11 @@
 ---
-title: "Sample ML post"
+title: "Introduction to Flutter"
 categories:
-  - machine-learning
+  - mobile-app
 tags:
-  - machine-learning
-use_math: true
+  - Flutter
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-
+This is Flutter post

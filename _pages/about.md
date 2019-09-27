@@ -59,7 +59,7 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 
 
 ### Relevant Experience
-* **Artificial Intelligence BootCamp**
+* **Artificial Intelligence BootCamp**  
   *June 2019 - Sep 2019 (3 months) / Seoul, South Korea*  
   *Korea Advanced Institute of Science and Technology (KAIST)*  
   AI School 실무자 양성과정 3기 (@양재 R&CD 혁신허브 with KAIST & 모두의 연구소 sponsored by Seoul City Government)
@@ -69,14 +69,14 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   During the last two months, two group projects (Kaggle Titanic & Deep Neural Style Transfer) 
   and an individual project (MINIST Digit Recognizer) were proceeded and delivered a presentation on the last day.
   
-* **Invited Participant at Bank of America Merrill Lynch**
+* **Invited Participant at Bank of America Merrill Lynch**  
   *October 2018 / London, UK / at UCL*
   Invitation-only technical workshop.
   Found out more about the important role of 'Technology division' has in the running of their business. 
   Had the chance to do network with a number of representatives from Analyst up to Director level. 
   Was given an insight into the campus programs, and what they look for in students.
 
-* **Google Technical Workshop**
+* **Google Technical Workshop**  
   *October 2018 / London, UK / at UCL*
   Google Technical Workshop / Engineering at Google (hosted by UCL technology society)
   Google engineers pulled back the curtains on the interview process and walked through a practice question. 
