@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" afterDir="false" />
     </list>
@@ -47,7 +46,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="16352" />
+          <entry key="md" value="16601" />
           <entry key="txt" value="189" />
           <entry key="yml" value="2" />
         </counts>
@@ -55,7 +54,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="16339" />
+          <entry key="Markdown" value="16588" />
           <entry key="PLAIN_TEXT" value="189" />
           <entry key="Python" value="13" />
           <entry key="YAML" value="2" />
@@ -105,8 +104,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="38" column="118" selection-start-line="38" selection-start-column="118" selection-end-line="38" selection-end-column="118" />
+              <first_editor relative-caret-position="570">
+                <caret line="38" column="132" selection-start-line="38" selection-start-column="132" selection-end-line="38" selection-end-column="132" />
               </first_editor>
               <second_editor />
             </state>
@@ -596,7 +595,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569944321787</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="sw models">
+      <created>1569972412055</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1569972412055</updated>
+    </task>
+    <task id="LOCAL-00048" summary="sw models">
+      <created>1569972502273</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1569972502273</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1005,8 +1018,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="38" column="118" selection-start-line="38" selection-start-column="118" selection-end-line="38" selection-end-column="118" />
+          <first_editor relative-caret-position="570">
+            <caret line="38" column="132" selection-start-line="38" selection-start-column="132" selection-end-line="38" selection-end-column="132" />
           </first_editor>
           <second_editor />
         </state>
