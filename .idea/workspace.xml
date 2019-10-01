@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
           <entry key="html" value="25" />
           <entry key="jpg" value="2" />
           <entry key="json" value="1" />
-          <entry key="md" value="89" />
+          <entry key="md" value="90" />
           <entry key="xml" value="1" />
           <entry key="yml" value="4" />
         </counts>
@@ -38,7 +39,7 @@
           <entry key="HTML" value="25" />
           <entry key="Image" value="2" />
           <entry key="JSON" value="1" />
-          <entry key="Markdown" value="89" />
+          <entry key="Markdown" value="90" />
           <entry key="XML" value="1" />
           <entry key="YAML" value="4" />
         </counts>
@@ -46,16 +47,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="15383" />
-          <entry key="txt" value="176" />
+          <entry key="md" value="16352" />
+          <entry key="txt" value="189" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="15370" />
-          <entry key="PLAIN_TEXT" value="176" />
+          <entry key="Markdown" value="16339" />
+          <entry key="PLAIN_TEXT" value="189" />
           <entry key="Python" value="13" />
           <entry key="YAML" value="2" />
         </counts>
@@ -104,8 +105,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="35" column="92" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
+              <first_editor relative-caret-position="420">
+                <caret line="38" column="118" selection-start-line="38" selection-start-column="118" selection-end-line="38" selection-end-column="118" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,6 +167,7 @@
         <option value="$PROJECT_DIR$/_posts/mobile-app/2019-09-30-Flutter-Settings.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/footer/custom.html" />
+        <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md" />
         <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" />
       </list>
     </option>
@@ -169,7 +183,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
@@ -224,12 +238,6 @@
               <item name="kimdanny.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="kimdanny.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kimdanny.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kimdanny.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="sw_eng_models" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -581,14 +589,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569939048465</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="sw models">
+      <created>1569944321787</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1569944321787</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07796852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.101573676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -657,16 +672,10 @@
     <MESSAGE value="Flutter pic changed" />
     <MESSAGE value="google" />
     <MESSAGE value="google ad" />
-    <option name="LAST_COMMIT_MESSAGE" value="google ad" />
+    <MESSAGE value="sw models" />
+    <option name="LAST_COMMIT_MESSAGE" value="sw models" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -983,11 +992,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="35" column="92" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
+          <first_editor relative-caret-position="420">
+            <caret line="38" column="118" selection-start-line="38" selection-start-column="118" selection-end-line="38" selection-end-column="118" />
           </first_editor>
           <second_editor />
         </state>
