@@ -38,22 +38,24 @@ data comprises entities, attributes and relationships of an information.
 
 Actually, what is more important is DBMS, because it is what enables users to interact with DB, and it is what provides controlled access to the DB.
 DBMS supports 
-1) _Data Language (SQL)_ 
-2) _security system_ 
-3) _data integrity system_ 
-4) _concurrency control system_ 
-5) _recovery control system_ and 
-6) a _user-accessible catalog_  
+1. _Data Language (SQL)_ 
+2. _Security system_ 
+3. _Data integrity system_ 
+4. _Concurrency control system_ 
+5. _Recovery control system_ and 
+6. _User-accessible catalog_  
 (What I found particularly interesting was its concurrency control system. We are making a software that should be embedded in a large corporations, so many users i.e. employees have to access the data at the same time.
 It would be no good if users queue up for accessing the DB every time).  
 
 Hence, by employing DBMS, you have a full control of data redundancy, consistency, sharing, integrity, security.
-Moreover, at economical point of view, you can achieve an 'Economy of scale', which leads to increase in productivity.  
+Moreover, at economical point of view, you can achieve an 'Economy of scale', which leads to an increase in productivity.  
 
 However, its complexity, which stems from its huge size and other additional systems, and higher impact of a failure can be its major drawbacks.  
 
 
 From next posts, we will discover how we can interact with DBMS and eventually with DB. Yes, it's about SQL (particularly MySQL).  
+
+[Link to the next post](https://kimdanny.github.io/database/mysql-1/).  
 
 ##### Reference
 1. My note taken from Dr. John Dowell's lecture at UCL - COMP0009: Logic and Database Theory (19/20)
