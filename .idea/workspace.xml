@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md" afterDir="false" />
+    <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="db, hci">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,17 +48,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="16773" />
-          <entry key="txt" value="194" />
+          <entry key="md" value="20560" />
+          <entry key="txt" value="201" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="16760" />
-          <entry key="PLAIN_TEXT" value="194" />
+          <entry key="Markdown" value="20545" />
+          <entry key="PLAIN_TEXT" value="201" />
           <entry key="Python" value="13" />
+          <entry key="SQL" value="2" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
@@ -118,8 +119,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -129,9 +130,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="630">
+                <caret line="49" column="131" selection-start-line="49" selection-start-column="131" selection-end-line="49" selection-end-column="131" />
               </first_editor>
               <second_editor />
             </state>
@@ -210,8 +211,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="714" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="730" />
+    <option name="width" value="710" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -294,13 +296,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567823483220</updated>
-    </task>
-    <task id="LOCAL-00002" summary="math">
-      <created>1567825457719</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1567825457719</updated>
     </task>
     <task id="LOCAL-00003" summary="math">
       <created>1567825788665</created>
@@ -638,14 +633,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569973035118</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="db, hci">
+      <created>1570229886398</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1570229886398</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22103004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -715,7 +717,8 @@
     <MESSAGE value="google ad" />
     <MESSAGE value="sw models" />
     <MESSAGE value="typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="typo" />
+    <MESSAGE value="db, hci" />
+    <option name="LAST_COMMIT_MESSAGE" value="db, hci" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_includes/posts-tag.html">
@@ -1040,8 +1043,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -1049,9 +1052,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="630">
+            <caret line="49" column="131" selection-start-line="49" selection-start-column="131" selection-end-line="49" selection-end-column="131" />
           </first_editor>
           <second_editor />
         </state>
