@@ -37,8 +37,14 @@ One of the famous DB models is the **Relational Database Model**. In relational 
 data comprises entities, attributes and relationships of an information.
 
 Actually, what is more important is DBMS, because it is what enables users to interact with DB, and it is what provides controlled access to the DB.
-DBMS supports 1) _Data Language (SQL)_ 2) _security system_ 3) _data integrity system_ 4) _concurrency control system_ 5) _recovery control system_ and 6) a _user-accessible catalog_.
-(What I found interesting was its concurrency control system. We are making a software that should be embedded in a large corporations, so many users i.e. employees have to access the data at the same time.
+DBMS supports 
+1) _Data Language (SQL)_ 
+2) _security system_ 
+3) _data integrity system_ 
+4) _concurrency control system_ 
+5) _recovery control system_ and 
+6) a _user-accessible catalog_  
+(What I found particularly interesting was its concurrency control system. We are making a software that should be embedded in a large corporations, so many users i.e. employees have to access the data at the same time.
 It would be no good if users queue up for accessing the DB every time).  
 
 Hence, by employing DBMS, you have a full control of data redundancy, consistency, sharing, integrity, security.
@@ -51,5 +57,5 @@ From next posts, we will discover how we can interact with DBMS and eventually w
 
 ##### Reference
 1. My note taken from Dr. John Dowell's lecture at UCL - COMP0009: Logic and Database Theory (19/20)
-2. Definition of DB and DBMS: _https://en.wikipedia.org/wiki/Database_
-3. Definition of DB models: _https://en.wikipedia.org/wiki/Database_model_
+2. Definition of DB and DBMS: [_https://en.wikipedia.org/wiki/Database_](https://en.wikipedia.org/wiki/Database)
+3. Definition of DB models: [_https://en.wikipedia.org/wiki/Database_model_](https://en.wikipedia.org/wiki/Database_model)
