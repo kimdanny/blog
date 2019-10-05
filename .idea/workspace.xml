@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="db, hci">
+    <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,16 +47,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="20560" />
-          <entry key="txt" value="201" />
+          <entry key="md" value="20599" />
+          <entry key="txt" value="204" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="20545" />
-          <entry key="PLAIN_TEXT" value="201" />
+          <entry key="Markdown" value="20584" />
+          <entry key="PLAIN_TEXT" value="204" />
           <entry key="Python" value="13" />
           <entry key="SQL" value="2" />
           <entry key="YAML" value="2" />
@@ -107,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
+              <first_editor relative-caret-position="431">
                 <caret line="31" column="109" selection-start-line="31" selection-start-column="109" selection-end-line="31" selection-end-column="109" />
               </first_editor>
               <second_editor />
@@ -115,24 +114,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="630">
-                <caret line="49" column="131" selection-start-line="49" selection-start-column="131" selection-end-line="49" selection-end-column="131" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="504">
+                <caret line="47" column="73" lean-forward="true" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
               </first_editor>
               <second_editor />
             </state>
@@ -197,6 +196,7 @@
         <option value="$PROJECT_DIR$/_posts/mobile-app/2019-09-30-Flutter-Settings.md" />
         <option value="$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md" />
         <option value="$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md" />
+        <option value="$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md" />
       </list>
     </option>
   </component>
@@ -212,8 +212,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="730" />
-    <option name="width" value="710" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -254,7 +253,7 @@
               <item name="kimdanny.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="kimdanny.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="human-computer-interaction(HCI)" type="462c0819:PsiDirectoryNode" />
+              <item name="human-computer-interaction" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kimdanny.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -296,20 +295,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567823483220</updated>
-    </task>
-    <task id="LOCAL-00003" summary="math">
-      <created>1567825788665</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1567825788665</updated>
-    </task>
-    <task id="LOCAL-00004" summary="math">
-      <created>1567825989416</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1567825989416</updated>
     </task>
     <task id="LOCAL-00005" summary="math">
       <created>1567826165710</created>
@@ -640,14 +625,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570229886398</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="sql">
+      <created>1570296179656</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1570296179656</updated>
+    </task>
+    <task id="LOCAL-00053" summary="sql">
+      <created>1570296522643</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1570296522643</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2825465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -718,7 +717,8 @@
     <MESSAGE value="sw models" />
     <MESSAGE value="typo" />
     <MESSAGE value="db, hci" />
-    <option name="LAST_COMMIT_MESSAGE" value="db, hci" />
+    <MESSAGE value="sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_includes/posts-tag.html">
@@ -1033,18 +1033,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
+          <first_editor relative-caret-position="431">
             <caret line="31" column="109" selection-start-line="31" selection-start-column="109" selection-end-line="31" selection-end-column="109" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -1052,9 +1042,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="630">
-            <caret line="49" column="131" selection-start-line="49" selection-start-column="131" selection-end-line="49" selection-end-column="131" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="504">
+            <caret line="47" column="73" lean-forward="true" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to HCI"
 categories:
-  - human-computer-interaction(HCI)
+  - human-computer-interaction
 tags:
   - HCI
 toc: true
