@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="sql image">
+    <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md" afterDir="false" />
     </list>
@@ -47,16 +47,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="24441" />
-          <entry key="txt" value="226" />
+          <entry key="md" value="24489" />
+          <entry key="txt" value="264" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="24365" />
-          <entry key="PLAIN_TEXT" value="226" />
+          <entry key="Markdown" value="24413" />
+          <entry key="PLAIN_TEXT" value="264" />
           <entry key="Python" value="13" />
           <entry key="SQL" value="63" />
           <entry key="YAML" value="2" />
@@ -106,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="480">
+              <first_editor relative-caret-position="487">
                 <caret line="45" column="86" lean-forward="true" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="86" />
               </first_editor>
               <second_editor />
@@ -129,9 +129,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="450">
-                <caret line="73" column="3" lean-forward="true" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="960">
+                <caret line="94" column="15" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -344,20 +344,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567823483220</updated>
-    </task>
-    <task id="LOCAL-00011" summary="math">
-      <created>1567826983752</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1567826983752</updated>
-    </task>
-    <task id="LOCAL-00012" summary="pyfun try">
-      <created>1568183851127</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1568183851127</updated>
     </task>
     <task id="LOCAL-00013" summary="header">
       <created>1568184485670</created>
@@ -688,7 +674,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570389346529</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="mysql">
+      <created>1570390771928</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1570390771928</updated>
+    </task>
+    <task id="LOCAL-00061" summary="sql codebox troubleshooting">
+      <created>1570390880123</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1570390880123</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -769,7 +769,9 @@
     <MESSAGE value="file name" />
     <MESSAGE value="sql" />
     <MESSAGE value="sql image" />
-    <option name="LAST_COMMIT_MESSAGE" value="sql image" />
+    <MESSAGE value="mysql" />
+    <MESSAGE value="sql codebox troubleshooting" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql codebox troubleshooting" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_includes/author-profile.html">
@@ -1101,7 +1103,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
+          <first_editor relative-caret-position="487">
             <caret line="45" column="86" lean-forward="true" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="86" />
           </first_editor>
           <second_editor />
@@ -1110,9 +1112,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="450">
-            <caret line="73" column="3" lean-forward="true" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="960">
+            <caret line="94" column="15" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
