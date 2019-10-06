@@ -44,6 +44,7 @@ DBMS supports
 4. _Concurrency control system_ 
 5. _Recovery control system_ and 
 6. _User-accessible catalog_  
+
 (What I found particularly interesting was its concurrency control system. We are making a software that should be embedded in a large corporations, so many users i.e. employees have to access the data at the same time.
 It would be no good if users queue up for accessing the DB every time).  
 
