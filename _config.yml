@@ -24,7 +24,7 @@ description              : "My Journey to Computer Science"
 url                      : "https://kimdanny.github.io" # the base hostname & protocol for your site e.g. "https://kimdanny.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kimdanny/kimdanny.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : images/airport.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -38,7 +38,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                : #optional
-    num_posts            : 7 # 5 (default)
+    num_posts            : 5 # 5 (default)
     colorscheme          : "light" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
@@ -67,7 +67,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : google # lunr (default), algolia, google
+search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
