@@ -85,15 +85,15 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 
 ### Stacks
 * **Languages**    
-    Python, Java, C, Haskell
+    Python, Java, C, Haskell, MySQL
 * **Libraries**  
-    numpy, pandas, scikit-learn, opencv, matplotlib, seaborn
+    Numpy, Pandas, Scikit-learn, OpenCV, Matplotlib, Seaborn
 * **Frameworks**  
     Tensorflow, Keras
 * **OS**  
-    MacOS, Windows, CentOS
+    MacOS, Linux, Windows, CentOS
 * **Tools**  
-    Git/GitHub, Google Colab
+    Git/GitHub, Google Colab, Quartus Prime
 
 ### Projects
 * **Deep Neural Style Transfer Analysis**

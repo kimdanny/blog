@@ -59,6 +59,6 @@ From next posts, we will discover how we can interact with DBMS and eventually w
 [Link to the next post](https://kimdanny.github.io/database/mysql-1/).  
 
 ##### Reference
-1. My note taken from Dr. John Dowell's lecture at UCL - COMP0009: Logic and Database Theory (19/20)
+1. My note taken from Dr. John Dowell's lectures at UCL - COMP0009: Logic and Database Theory (19/20)
 2. Definition of DB and DBMS: [_https://en.wikipedia.org/wiki/Database_](https://en.wikipedia.org/wiki/Database)
 3. Definition of DB models: [_https://en.wikipedia.org/wiki/Database_model_](https://en.wikipedia.org/wiki/Database_model)
