@@ -1,7 +1,7 @@
 ---
 title: "Introduction to HCI"
 categories:
-  - human-computer-interaction
+  - software-engineering
 tags:
   - HCI
 toc: true
@@ -9,7 +9,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 ## What is HCI?
-
+HCI is an acronym for Human-Computer-Interaction.
 
 
 

@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/docker/2019-10-08-whats-docker.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/database/2019-10-07-mysql-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/database/2019-10-07-mysql-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +33,7 @@
           <entry key="html" value="25" />
           <entry key="jpg" value="4" />
           <entry key="json" value="1" />
-          <entry key="md" value="102" />
+          <entry key="md" value="106" />
           <entry key="xml" value="1" />
           <entry key="yml" value="5" />
         </counts>
@@ -45,7 +43,7 @@
           <entry key="HTML" value="25" />
           <entry key="Image" value="4" />
           <entry key="JSON" value="1" />
-          <entry key="Markdown" value="102" />
+          <entry key="Markdown" value="106" />
           <entry key="XML" value="1" />
           <entry key="YAML" value="5" />
         </counts>
@@ -53,16 +51,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="28854" />
-          <entry key="txt" value="280" />
+          <entry key="md" value="29089" />
+          <entry key="txt" value="305" />
           <entry key="yml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="28740" />
-          <entry key="PLAIN_TEXT" value="280" />
+          <entry key="Markdown" value="28975" />
+          <entry key="PLAIN_TEXT" value="305" />
           <entry key="Python" value="13" />
           <entry key="SQL" value="101" />
           <entry key="YAML" value="41" />
@@ -72,36 +70,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-08-models.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="450">
+                <caret line="82" column="41" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-04-Introduction_hci.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
+        <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="675">
-                <caret line="97" column="73" lean-forward="true" selection-start-line="97" selection-start-column="73" selection-end-line="97" selection-end-column="73" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/docker/2019-10-08-whats-docker.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <first_editor relative-caret-position="345">
+                <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -112,8 +110,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-07-mysql-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -121,11 +119,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md">
+        <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="98" lean-forward="true" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="98" />
+              <first_editor relative-caret-position="349">
+                <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
               </first_editor>
               <second_editor />
             </state>
@@ -172,17 +170,20 @@
         <option value="$PROJECT_DIR$/_posts/mobile-app/2019-09-29-Intro-to-Flutter.md" />
         <option value="$PROJECT_DIR$/_posts/mobile-app/2019-10-02-Flutter-codelabs.md" />
         <option value="$PROJECT_DIR$/_includes/footer/custom.html" />
-        <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md" />
         <option value="$PROJECT_DIR$/_posts/mobile-app/2019-09-30-Flutter-Settings.md" />
         <option value="$PROJECT_DIR$/_posts/human-computer-interaction(HCI)/2019-10-04-Introduction.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_pages/about.md" />
         <option value="$PROJECT_DIR$/_posts/docker/2019-10-08-whats-docker.md" />
+        <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" />
         <option value="$PROJECT_DIR$/_posts/database/2019-10-07-mysql-2.md" />
         <option value="$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md" />
         <option value="$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md" />
         <option value="$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md" />
-        <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md" />
+        <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-04-Introduction_hci.md" />
+        <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md" />
+        <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-01-unix-commandLines.md" />
+        <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md" />
       </list>
     </option>
   </component>
@@ -293,20 +294,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567823483220</updated>
-    </task>
-    <task id="LOCAL-00018" summary="iter/gen">
-      <created>1568474026317</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1568474026317</updated>
-    </task>
-    <task id="LOCAL-00019" summary="about,categories,tags">
-      <created>1568557318017</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1568557318017</updated>
     </task>
     <task id="LOCAL-00020" summary="modify lists in loop">
       <created>1568560034317</created>
@@ -637,14 +624,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570405964842</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="sw models">
+      <created>1570551568645</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1570551568645</updated>
+    </task>
+    <task id="LOCAL-00068" summary="date fixed">
+      <created>1570551785018</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1570551785018</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13161659" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -697,7 +698,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="try mathjax" />
     <MESSAGE value="math" />
     <MESSAGE value="pyfun try" />
     <MESSAGE value="header" />
@@ -712,7 +712,6 @@
     <MESSAGE value="Flutter pic changed" />
     <MESSAGE value="google" />
     <MESSAGE value="google ad" />
-    <MESSAGE value="sw models" />
     <MESSAGE value="typo" />
     <MESSAGE value="db, hci" />
     <MESSAGE value="file name" />
@@ -722,12 +721,11 @@
     <MESSAGE value="logo" />
     <MESSAGE value="mysql" />
     <MESSAGE value="config" />
-    <option name="LAST_COMMIT_MESSAGE" value="config" />
+    <MESSAGE value="sw models" />
+    <MESSAGE value="date fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="date fixed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/category-archive.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1014,7 +1012,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
-            <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
@@ -1026,28 +1024,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-05-Introduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="660">
-            <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="660">
-            <caret line="146" column="48" selection-start-line="146" selection-start-column="48" selection-end-line="146" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-shell.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <first_editor relative-caret-position="645">
+            <caret line="60" column="2" lean-forward="true" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -1056,8 +1034,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-07-mysql-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -1066,18 +1044,48 @@
     <entry file="file://$PROJECT_DIR$/_posts/human-computer-interaction/2019-10-04-Introduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="98" lean-forward="true" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="98" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-01-models.md">
+    <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-08-models.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="675">
-            <caret line="97" column="73" lean-forward="true" selection-start-line="97" selection-start-column="73" selection-end-line="97" selection-end-column="73" />
+          <first_editor relative-caret-position="450">
+            <caret line="82" column="41" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-04-Introduction_hci.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="349">
+            <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
