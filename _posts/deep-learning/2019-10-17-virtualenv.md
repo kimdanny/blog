@@ -77,10 +77,10 @@ _OLD_VIRTUAL_PATH="$PATH"
 PATH="$VIRTUAL_ENV/bin:$PATH"
 export PATH
 ```
-Here you can check it is shell scripted file called 'activate'. Therefore, according to the comment on the first line, 
+Here you can check it is a shell scripted file called 'activate'. Therefore, according to the comment on the first line, 
 you can activate this virtual environment by typing `source name/bin/activate`. In my case it is `source tf2/bin/activate`.
 
-**Fifth, know how to turn on and off our virtual environment**
+**Fifth, know how to turn on and off our virtual environment**  
 To initiate:
 ```
 $ source NAME/bin/activate
@@ -91,7 +91,7 @@ To deactivate:
 $ deactivate
 ```
 
-**Last, install everything you need in the Environment**
+**Last, install everything you need in the Environment**  
 Access to your environment and do things you need:
 ```
 (tf2) $ pip3 install --upgrade pip
