@@ -1,7 +1,7 @@
 ---
 title: "What is Docker?"
 categories:
-  - docker
+  - software-engineering
 tags:
   - docker
 toc: true
