@@ -11,9 +11,11 @@ toc_icon: "cog"
 ## People who I admire
 - [Andrew Ng - Medium](https://medium.com/@andrewng)
 - [Andrew Ng - personal website](https://www.andrewng.org)
-- [Sebastian Raschka](https://sebastianraschka.com)
 - [Marc Cohen](https://mco.dev)
 - [Laurence Moroney](http://www.laurencemoroney.com)
+- [Sebastian Raschka](https://sebastianraschka.com)
+- [Kyunghyun Cho](http://www.kyunghyuncho.me)
+
 
 
 ## Computer Science
@@ -27,6 +29,7 @@ toc_icon: "cog"
 ### Algorithms
 - [Leetcode](https://leetcode.com/problemset/algorithms/)
 - [Data Structures and Algorithms in python](https://doc.lagout.org/programmation/python/Data%20Structures%20and%20Algorithms%20in%20Python%20[Goodrich,%20Tamassia%20&%20Goldwasser%202013-03-18].pdf)
+- [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
 
 ### SQL
 - [Java and SQL](https://blog.jooq.org/sql/) (better in SQL)
@@ -68,8 +71,15 @@ toc_icon: "cog"
 - [Computer Vision Visualisation](http://vision-explorer.reactive.ai/#/galaxy?_k=bw79mx)
 - [Fullstack Deep Learning - March 2019](https://fullstackdeeplearning.com/march2019)
 - [Course materials for General Assembly's Data Science course in Washington, DC ](https://github.com/justmarkham/DAT3)  
-  
-  
+- [Hands on ML Ipython files](https://github.com/ageron/handson-ml2)  
+- [Kyunghyun Choi's NYU course materials](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note)
+- [Neural Networks and Deep Learning, Springer, September 2018 Charu C. Aggarwal.](http://charuaggarwal.net/neural.htm) (book)
+- [Advanced NLP with spaCy](https://course.spacy.io) (good NLP tutorial)
+- [pyimagesearch](https://www.pyimagesearch.com/start-here) (good Computer Vision tutorial)
+- [SandDance](https://www.microsoft.com/en-us/research/project/sanddance/) (Microsoft's autamated EDA Tool. Available on VScode)
+
+**Korean**
+- [Hunkim's 모두를 위한 머신러닝](http://hunkim.github.io/ml/)
 - [wikidocs NLP](https://www.pdfdrive.com) (NLP Explanation in Korean)
 - [Fast Campus Pytorch course materials](https://github.com/junkwhinger/Pytorch_Fast_Campus_2018) (korean)
 - [DeepLearning Zero to All](https://github.com/deeplearningzerotoall) (Tensorflow and Pytorch tutorials in korean)
@@ -84,6 +94,7 @@ toc_icon: "cog"
 - [Stanford Movie Dataset](https://ai.stanford.edu/~amaas/data/sentiment/) (Good for Sentimental Analysis)
 - [Kaggle Datasets](https://www.kaggle.com/datasets) (Almost perfectly Refined Data)
 - [PDFdrive](https://www.pdfdrive.com) (For finding PDFs)
+- [Library Genesis](http://gen.lib.rus.ec/)
 
 
 
