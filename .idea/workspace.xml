@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/deep-learning/2019-10-17-virtualenv.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/programming/2019-10-20-lambda-vs-def.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/random/2019-10-20-learning-resources.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/docker/2019-10-08-whats-docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/deep-learning/2019-10-17-virtualenv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/deep-learning/2019-10-17-virtualenv.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
           <entry key="html" value="25" />
           <entry key="jpg" value="4" />
           <entry key="json" value="1" />
-          <entry key="md" value="115" />
+          <entry key="md" value="118" />
           <entry key="xml" value="1" />
           <entry key="yml" value="5" />
         </counts>
@@ -41,7 +41,7 @@
           <entry key="HTML" value="25" />
           <entry key="Image" value="4" />
           <entry key="JSON" value="1" />
-          <entry key="Markdown" value="115" />
+          <entry key="Markdown" value="118" />
           <entry key="XML" value="1" />
           <entry key="YAML" value="5" />
         </counts>
@@ -49,16 +49,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="33161" />
-          <entry key="txt" value="309" />
+          <entry key="md" value="35307" />
+          <entry key="txt" value="311" />
           <entry key="yml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="33047" />
-          <entry key="PLAIN_TEXT" value="309" />
+          <entry key="Markdown" value="35193" />
+          <entry key="PLAIN_TEXT" value="311" />
           <entry key="Python" value="13" />
           <entry key="SQL" value="101" />
           <entry key="YAML" value="41" />
@@ -72,8 +72,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <first_editor relative-caret-position="375">
+                <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/programming/2019-10-20-lambda-vs-def.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -81,11 +93,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/random/2019-10-20-learning-resources.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/programming/2019-08-17-itertools-flattening-list.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/deep-learning/2019-10-17-virtualenv.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="650">
-                <caret line="97" column="41" lean-forward="true" selection-start-line="97" selection-start-column="41" selection-end-line="97" selection-end-column="41" />
+              <first_editor relative-caret-position="690">
+                <caret line="98" column="3" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -172,6 +208,8 @@
         <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md" />
         <option value="$PROJECT_DIR$/_posts/software-engineering/2019-10-08-whats-docker.md" />
         <option value="$PROJECT_DIR$/_posts/deep-learning/2019-10-17-virtualenv.md" />
+        <option value="$PROJECT_DIR$/_posts/programming/2019-10-20-lambda-vs-def.md" />
+        <option value="$PROJECT_DIR$/_posts/random/2019-10-20-learning-resources.md" />
       </list>
     </option>
   </component>
@@ -247,6 +285,12 @@
               <item name="kimdanny.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="kimdanny.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="random" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kimdanny.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kimdanny.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
               <item name="software-engineering" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -300,20 +344,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567823483220</updated>
-    </task>
-    <task id="LOCAL-00022" summary="modify lists in loop">
-      <created>1568696686631</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1568696686631</updated>
-    </task>
-    <task id="LOCAL-00023" summary="typo">
-      <created>1568696751388</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1568696751388</updated>
     </task>
     <task id="LOCAL-00024" summary="typo">
       <created>1568697155654</created>
@@ -644,14 +674,28 @@
       <option name="project" value="LOCAL" />
       <updated>1571081970743</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="ve">
+      <created>1571271826158</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1571271826159</updated>
+    </task>
+    <task id="LOCAL-00072" summary="ve">
+      <created>1571272009075</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1571272009075</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116595134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1509299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -704,7 +748,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pyfun try" />
     <MESSAGE value="header" />
     <MESSAGE value="header fixed" />
     <MESSAGE value="iter/gen" />
@@ -729,24 +772,10 @@
     <MESSAGE value="sw models" />
     <MESSAGE value="date fixed" />
     <MESSAGE value="unix" />
-    <option name="LAST_COMMIT_MESSAGE" value="unix" />
+    <MESSAGE value="ve" />
+    <option name="LAST_COMMIT_MESSAGE" value="ve" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_pages/tag-archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/competitions/2019-07-20-titanic-preprocessing.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/competitions/2019-07-28-titanic-modelling.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -804,16 +833,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/programming/2019-08-08-iterables-generator.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/programming/2019-08-17-itertools-flattening-list.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
@@ -1002,16 +1021,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/deep-learning/2019-08-11-vgg19.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1033,16 +1042,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
             <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/programming/2019-07-13-python-multiple-args.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="885">
-            <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
@@ -1078,11 +1077,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md">
+    <entry file="file://$PROJECT_DIR$/_posts/programming/2019-07-13-python-multiple-args.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <first_editor relative-caret-position="885">
+            <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/database/2019-10-06-mysql-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>
@@ -1091,8 +1100,48 @@
     <entry file="file://$PROJECT_DIR$/_posts/deep-learning/2019-10-17-virtualenv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="650">
-            <caret line="97" column="41" lean-forward="true" selection-start-line="97" selection-start-column="41" selection-end-line="97" selection-end-column="41" />
+          <first_editor relative-caret-position="690">
+            <caret line="98" column="3" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-13-unix-commandLines.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/programming/2019-10-20-lambda-vs-def.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/programming/2019-08-17-itertools-flattening-list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/random/2019-10-20-learning-resources.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>

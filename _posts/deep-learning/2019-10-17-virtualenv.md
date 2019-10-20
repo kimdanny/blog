@@ -97,11 +97,3 @@ Access to your environment and do things you need:
 (tf2) $ pip3 install --upgrade pip
 (tf2) $ pip3 install --upgrade tensorflow
 ```
-
-
-
-
-
-
-
-
