@@ -99,6 +99,7 @@ toc_icon: "cog"
 
 
 ## Youtube
+- [MIT 6.S191 2019](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) (MIT Deep-Learning Lectures)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (Math and ML)
 - [Tensorflow official channel](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (general cs)
