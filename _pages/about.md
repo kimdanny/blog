@@ -59,6 +59,13 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 
 
 ### Relevant Experience
+* **Developer Relations at UCL Artificial Intelligence Society**  
+  *October 2019 - Present / London, UK / at UCL*
+  Give a series of Machine Learning Tutorials.  
+  Help preparing for the course materials.  
+  Help students in the tutorials as a Teaching Assistant.  
+  As a Developer Relations, recruit like-minded student programmers/developers to the team.
+
 * **Artificial Intelligence BootCamp**  
   *June 2019 - Sep 2019 (3 months) / Seoul, South Korea*  
   *Korea Advanced Institute of Science and Technology (KAIST)*  

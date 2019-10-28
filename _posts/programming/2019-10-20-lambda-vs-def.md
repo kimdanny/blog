@@ -140,9 +140,3 @@ def
          26 RETURN_VALUE
 ```
 They do generate the same bytecode!
-
-
-
-
-
-
