@@ -4,8 +4,6 @@
     <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/2019-08-08-iterables-generator.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/2019-08-08-iterables-generator.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/2019-10-20-lambda-vs-def.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/2019-10-20-lambda-vs-def.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,16 +47,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="37810" />
-          <entry key="txt" value="339" />
+          <entry key="md" value="37893" />
+          <entry key="txt" value="354" />
           <entry key="yml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="37678" />
-          <entry key="PLAIN_TEXT" value="339" />
+          <entry key="Markdown" value="37761" />
+          <entry key="PLAIN_TEXT" value="354" />
           <entry key="Python" value="31" />
           <entry key="SQL" value="101" />
           <entry key="YAML" value="41" />
@@ -72,8 +70,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="236">
-                <caret line="62" column="48" lean-forward="true" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+              <first_editor relative-caret-position="182">
+                <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -277,13 +275,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567823483220</updated>
-    </task>
-    <task id="LOCAL-00028" summary="git reset">
-      <created>1568990886433</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1568990886433</updated>
     </task>
     <task id="LOCAL-00029" summary="category names">
       <created>1568991437625</created>
@@ -621,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571792056857</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="ucl ai soc">
+      <created>1572226809289</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1572226809290</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -681,7 +679,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="iter/gen" />
     <MESSAGE value="about,categories,tags" />
     <MESSAGE value="modify lists in loop" />
     <MESSAGE value="git reset" />
@@ -706,7 +703,8 @@
     <MESSAGE value="ve" />
     <MESSAGE value="learning resources" />
     <MESSAGE value="def_lambda" />
-    <option name="LAST_COMMIT_MESSAGE" value="def_lambda" />
+    <MESSAGE value="ucl ai soc" />
+    <option name="LAST_COMMIT_MESSAGE" value="ucl ai soc" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/competitions/2019-07-28-titanic-modelling.md">
@@ -1064,8 +1062,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="236">
-            <caret line="62" column="48" lean-forward="true" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+          <first_editor relative-caret-position="182">
+            <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>

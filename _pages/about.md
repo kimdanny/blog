@@ -41,6 +41,7 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   - Engineering Mathematics for Finance (Elective module)
   
   **Societies**
+  - Developer Relations at UCL Artificial Intelligence Society
   - Member of UCL Technology Society (Hackathons and Tech-Talks)
   - Member of UCL Engineering Society (Joined Drone Project)
   - Member of UCL Data Science Society (DS-with-Python Tutorials)
