@@ -15,13 +15,13 @@
     <session id="1208937328">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,16 +47,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="37893" />
-          <entry key="txt" value="354" />
+          <entry key="md" value="37998" />
+          <entry key="txt" value="359" />
           <entry key="yml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="37761" />
-          <entry key="PLAIN_TEXT" value="354" />
+          <entry key="Markdown" value="37866" />
+          <entry key="PLAIN_TEXT" value="359" />
           <entry key="Python" value="31" />
           <entry key="SQL" value="101" />
           <entry key="YAML" value="41" />
@@ -65,13 +65,13 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="182">
-                <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+              <first_editor relative-caret-position="300">
+                <caret line="95" column="35" lean-forward="true" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
               </first_editor>
               <second_editor />
             </state>
@@ -176,6 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,6 +205,12 @@
               <item name="kimdanny.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
               <item name="deep-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kimdanny.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kimdanny.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="machine-learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kimdanny.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -244,7 +251,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,13 +281,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567823483220</updated>
-    </task>
-    <task id="LOCAL-00029" summary="category names">
-      <created>1568991437625</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1568991437626</updated>
     </task>
     <task id="LOCAL-00030" summary="category names">
       <created>1568991492824</created>
@@ -619,14 +618,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572226809290</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="about">
+      <created>1572226974045</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1572226974045</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19098713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -679,7 +685,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="about,categories,tags" />
     <MESSAGE value="modify lists in loop" />
     <MESSAGE value="git reset" />
     <MESSAGE value="category names" />
@@ -704,7 +709,8 @@
     <MESSAGE value="learning resources" />
     <MESSAGE value="def_lambda" />
     <MESSAGE value="ucl ai soc" />
-    <option name="LAST_COMMIT_MESSAGE" value="ucl ai soc" />
+    <MESSAGE value="about" />
+    <option name="LAST_COMMIT_MESSAGE" value="about" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/competitions/2019-07-28-titanic-modelling.md">
@@ -1062,8 +1068,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="182">
-            <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <first_editor relative-caret-position="300">
+            <caret line="95" column="35" lean-forward="true" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
           </first_editor>
           <second_editor />
         </state>

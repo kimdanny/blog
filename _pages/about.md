@@ -9,7 +9,7 @@ Currently a 2nd year BSc Computer Science student at University College London.
 I am particularly passionate about Machine Learning and Deep Learning.
 To request my CV, please send me an [email](mailto:dannykim153@gmail.com).  
 
-As a title of this blog (**TEKnology**) implies, this is a Tech-related blog posting site by *To Eun Kim (TEK)*  
+As the title of this blog (**TEKnology**) implies, this is a Tech-related blog posting site by *To Eun Kim (TEK)*  
 
 By the way, if you can understand Korean, you can check out my [Korean blogging site](https://teknology.tistory.com) as well :)
 
@@ -54,9 +54,9 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 
 * **Sangmoon Highschool**   
   *Mar 2014 - Feb 2017 / Seoul, South Korea*  
-  1. Three years consecutive class representative
-  2. English Parliamentary Debate Club (3 years)
-  3. Humanities Academy (2 years)
+  - Three years consecutive class representative
+  - English Parliamentary Debate Club (3 years)
+  - Humanities Academy (2 years)
 
 
 ### Relevant Experience
@@ -109,8 +109,13 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 
 ### Competitions
 * **Titanic: Machine Learning from Disaster (Kaggle)**  
-  public score: 0.80382
-  Top 9%
+  Team Name: Spicy Koreans  
+  public score: 0.80382 / Top 9%
 
 * **Digit Recognizer (Kaggle)**  
   public score: 0.99000
+
+<!--
+### Talks / Lectures
+ucl ai soc ML tutorial
+-->
