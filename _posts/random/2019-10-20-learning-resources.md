@@ -77,6 +77,8 @@ toc_icon: "cog"
 - [Advanced NLP with spaCy](https://course.spacy.io) (good NLP tutorial)
 - [pyimagesearch](https://www.pyimagesearch.com/start-here) (good Computer Vision tutorial)
 - [SandDance](https://www.microsoft.com/en-us/research/project/sanddance/) (Microsoft's autamated EDA Tool. Available on VScode)
+- [NLTK Tutorials](http://www.nltk.org/book/)
+
 
 **Korean**
 - [Hunkim's 모두를 위한 머신러닝](http://hunkim.github.io/ml/)
