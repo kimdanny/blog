@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/programming/2019-11-03-itertools.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/programming/2019-11-03-python-operator.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/2019-08-08-iterables-generator.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/2019-08-08-iterables-generator.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/2019-08-17-itertools-flattening-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/2019-08-17-flattening-list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/2019-08-17-flattening-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/2019-08-17-flattening-list.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +47,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="38983" />
-          <entry key="txt" value="370" />
+          <entry key="md" value="39137" />
+          <entry key="txt" value="385" />
           <entry key="yml" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="38826" />
-          <entry key="PLAIN_TEXT" value="370" />
+          <entry key="Markdown" value="38980" />
+          <entry key="PLAIN_TEXT" value="385" />
           <entry key="Python" value="56" />
           <entry key="SQL" value="101" />
           <entry key="YAML" value="56" />
@@ -82,19 +78,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/programming/2019-08-17-flattening-list.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <first_editor relative-caret-position="272">
+                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/programming/2019-11-03-itertools.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -177,8 +173,8 @@
         <option value="$PROJECT_DIR$/_pages/about.md" />
         <option value="$PROJECT_DIR$/_posts/programming/2019-11-03-python-operator.md" />
         <option value="$PROJECT_DIR$/_posts/programming/2019-08-08-iterables-generator.md" />
-        <option value="$PROJECT_DIR$/_posts/programming/2019-08-17-flattening-list.md" />
         <option value="$PROJECT_DIR$/_posts/programming/2019-11-03-itertools.md" />
+        <option value="$PROJECT_DIR$/_posts/programming/2019-08-17-flattening-list.md" />
       </list>
     </option>
   </component>
@@ -319,13 +315,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567823483220</updated>
-    </task>
-    <task id="LOCAL-00032" summary="category names">
-      <created>1568993497765</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1568993497765</updated>
     </task>
     <task id="LOCAL-00033" summary="category names">
       <created>1568993616232</created>
@@ -663,7 +652,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572721562246</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="flattening list">
+      <created>1572807781727</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1572807781727</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -723,7 +719,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="git reset" />
     <MESSAGE value="category names" />
     <MESSAGE value="update cv" />
     <MESSAGE value="Flutter" />
@@ -748,7 +743,8 @@
     <MESSAGE value="ucl ai soc" />
     <MESSAGE value="about" />
     <MESSAGE value="skin to air" />
-    <option name="LAST_COMMIT_MESSAGE" value="skin to air" />
+    <MESSAGE value="flattening list" />
+    <option name="LAST_COMMIT_MESSAGE" value="flattening list" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_pages/404.md">
@@ -1094,16 +1090,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/programming/2019-08-17-flattening-list.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/programming/2019-11-03-python-operator.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1119,6 +1105,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="240">
             <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/programming/2019-08-17-flattening-list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           </first_editor>
           <second_editor />
         </state>

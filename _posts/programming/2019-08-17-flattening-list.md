@@ -18,7 +18,9 @@ Prior Knowledge of `hasattr()` and `list.extend(obj)` is encouraged.
 
 Basically, our code will check if one element is iterable object or not.
 If one element has an attribute that is called '\__iter__', it means the element is the list inside the given list 
-which we want to `extend` it.
+which we want to `extend` it.  
+Of course you can directly check its type by `type(x) == list`. However, I just wanted to show you guys that it has the '\__iter__' attribute.
+
 ### Flattening a 2-Dimensional List
 
 ```python
