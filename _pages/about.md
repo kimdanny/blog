@@ -93,11 +93,11 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 
 ### Stacks
 * **Languages**    
-    Python, Java, C, Haskell, MySQL
+    Python 3, Java, C, Haskell, MySQL
 * **Libraries**  
     Numpy, Pandas, Scikit-learn, OpenCV, Matplotlib, Seaborn
 * **Frameworks**  
-    Tensorflow, Keras
+    Tensorflow 2.0, Keras
 * **OS**  
     MacOS, Linux, Windows, CentOS
 * **Tools**  

@@ -144,4 +144,4 @@ StopIteration
 ```
 
 *Continue Reading this topic at  
-[Iterables and Generators (2) - itertools and Flattening a multi-dimensional list](https://kimdanny.github.io/programming/itertools-flattening-list/)*
+[Iterables and Generators (2) - Flattening a multi-dimensional list](https://kimdanny.github.io/programming/flattening-list/)*
