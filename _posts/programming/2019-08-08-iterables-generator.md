@@ -145,3 +145,4 @@ StopIteration
 
 *Continue Reading this topic at  
 [Iterables and Generators (2) - Flattening a multi-dimensional list](https://kimdanny.github.io/programming/flattening-list/)*
+[Iterables and Generators (3) - itertools](https://kimdanny.github.io/programming/itertools/)*

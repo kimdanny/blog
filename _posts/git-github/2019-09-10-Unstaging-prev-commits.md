@@ -9,7 +9,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-## How to remove previous commits (safely)
+## How to unstage your previous commits (safely)
 You can see every commit on you branch by:
 ```
 $ git log

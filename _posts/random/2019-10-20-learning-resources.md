@@ -108,7 +108,7 @@ toc_icon: "cog"
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) (Andrew Ng)
 - [Neso Academy](https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A) (general cs)
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
-- [Harvard CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) (for beginners)
+- [Harvard CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) (Harvard lectures on general CS)
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT)
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz/featured) 
 - [생활코딩](https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA) (korean. 이고잉님)
