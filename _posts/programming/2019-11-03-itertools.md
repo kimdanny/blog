@@ -11,15 +11,15 @@ toc_icon: "cog"
 This post is continued from [Iterables and Generators (2) - Flattening a multi-dimensional list](https://kimdanny.github.io/programming/flattening-list/).  
 
 In this post, I will introduce you to one of the most powerful python libraries, which is called an `itertools`.
-Itertools supports various functions that creates iterators for efficient looping.
+Itertools supports various functions that create iterators for efficient looping.
 This module implements a number of iterator building blocks, and you can see some similar implementations from some
 functional programming languages, such as Haskell.
 
 
-### 1. Combinatoric Generators
-I feel that Combinatoric generators are frequently used and most useful functions in this module.
-You can easily see the difference between those and can know how to use those by following example.
-#### 1-1. combinations()
+## 1. Combinatoric Generators
+I feel that Combinatoric generators are frequently used and one of the most useful functions in this module.
+You can easily see the difference between different functions and can know how to use those by following examples.
+### 1-1. combinations()
 @returns: all possible combinations, in sorted order, without any repeated elements
 
 ```python
@@ -45,7 +45,7 @@ b d
 c d
 ```
 
-#### 1-2. permutations()
+### 1-2. permutations()
 @returns: all possible orderings with no repeated elements
 
 ```python
@@ -88,13 +88,13 @@ print("product: ", list(it.product(a, b)))
 
 ```
 
-### 2. Iterators terminating on the shortest input sequence
+## 2. Iterators terminating on the shortest input sequence
 Like I mentioned before, this module is heavily influence by functional programming languages (They are really awesome once you learn it, and my favorite one is Haskell!!).  
 Functions you will see now are the things that you will see from Haskell.
 One of reasons why my favorite language is python is because python does not confined to a certain programming paradigm, 
 which means that you can choose whatever programming style you want (imperative, functional or object-oriented) that fits the best in the context.  
 
-#### 2-1. chain(*iterables)
+### 2-1. chain(*iterables)
 Used for treating consecutive sequence as a single sequence.  
 @param: *iterables
 @description: returns chained iterables in a single sequence object.
@@ -123,7 +123,7 @@ Terminal output:
 ['a', 'b', 'c', 'd', '1', '2', '3', '4', 'a', 'b', 'c', 'd', 'e', 'f', 1, 'a', 2, 'b']
 ```
 
-#### 2-2. groupby()
+### 2-2. groupby()
 You will see very similar functionality in `pandas` library, `sql` and of course Haskell too.
 ```
 [k for k, g in groupby('AAAABBBCCDAABBB')] --> A B C D A B
@@ -177,13 +177,13 @@ pass: [{'module': 'Comp0147', 'score': 'pass'}, {'module': 'Comp0009', 'score': 
 
 
 
-#### 2-3. takewhile(predicate, iterable)
+### 2-3. takewhile(predicate, iterable)
 @params: predicate, iterable  
 @description: evaluate `predicate(iterable element)` and returns iterable element that makes it true.  
 @beware: This stops at the first instance of an element that the predicate returns false.
 
 
-#### 2-4. dropwhile(predicate, iterable)
+### 2-4. dropwhile(predicate, iterable)
 @params: predicate, iterable  
 @description: returns exactly the opposite to what takewhile() does.
 ```python
@@ -200,7 +200,7 @@ print(list(dropWhileResult))      # [4, 7, 3, 5, 6]
 ```
 
 
-#### 2-5. built-in map(), zip(), filter()
+### 2-5. built-in map(), zip(), filter()
 To be clear, `map()`, `zip()` and `filter()` do not belong to itertool module, but rather it is a built-in function.
 Before python3, there was `imap()`, `izip()` and `ifilter()` that returns an iterator rather than a list, 
 but from python3 those functions have been removed and replaced by built-int map and zip that returns a list.  
@@ -209,21 +209,3 @@ and can be really synergistic once used together with itertools module.
 
 (Remember from [Iterables and Generators(1)-theory](https://kimdanny.github.io/programming/iterables-generator/), 
 we learned that we can make iterator object by doing `iter(iterable)` and this iterator object has next() method by default).  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

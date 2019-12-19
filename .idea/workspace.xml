@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/git-github/2019-09-10-VersionControl-Git.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/git-github/2019-09-10-Unstaging-prev-commits.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/2019-08-08-iterables-generator.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/2019-08-08-iterables-generator.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/programming/2019-11-03-itertools.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/2019-11-03-itertools.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/random/2019-10-20-learning-resources.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/random/2019-10-20-learning-resources.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +46,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="17" />
-          <entry key="md" value="43736" />
+          <entry key="md" value="43768" />
           <entry key="txt" value="385" />
           <entry key="yml" value="56" />
         </counts>
@@ -58,7 +54,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
-          <entry key="Markdown" value="43568" />
+          <entry key="Markdown" value="43600" />
           <entry key="PLAIN_TEXT" value="385" />
           <entry key="Python" value="67" />
           <entry key="SQL" value="101" />
@@ -133,8 +129,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/programming/2019-11-03-itertools.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="307">
+                <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
               </first_editor>
               <second_editor />
             </state>
@@ -218,7 +214,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="726" />
     <option name="width" value="714" />
     <option name="height" value="900" />
@@ -663,10 +659,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="512" y="0" width="928" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -680,7 +676,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.19518073" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2626506" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1113,8 +1109,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/programming/2019-11-03-itertools.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <first_editor relative-caret-position="307">
+            <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
           </first_editor>
           <second_editor />
         </state>
