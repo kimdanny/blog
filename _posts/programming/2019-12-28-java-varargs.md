@@ -23,8 +23,7 @@ class VarArgs
     static void test(int... num) 
     { 
         System.out.println("Number of arguments: " + num.length); 
-  
-        // using for each loop to display contents of a 
+   
         for (int elem : num){
             System.out.print(elem + " " + "\n"); 
         } 
@@ -42,6 +41,8 @@ class VarArgs
 
 
 You can find variable arguments example from java `ProcessBuilder`.
-```Java
+```java
 public ProcessBuilder(String... command) 
 ```
+
+
