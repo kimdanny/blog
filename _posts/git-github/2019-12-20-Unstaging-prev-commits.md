@@ -30,4 +30,14 @@ $ git reset --soft HEAD~2
 ```
 Guys, this is the safest way to remove your previous commits, as you can infer from the argument `--soft`.
 If you want to keep your work/files in your local directory or remote repo, and just undo the commit you made before,
-do `git reset --soft HEAD~n`.
+do `git reset --soft HEAD~n`.  
+
+### Then when do you actually use git reset --hard?
+Of course you can use it when you really want to reset your code because your code was like such a garbage.  
+However, recently, I found a really good use case of hard resetting while I was co-working on a project through git and github.
+When you work with many people through git, it is quite common that you mess up with push timing issue. 
+You worked on one part and tried to push it, but you see that other members have already pushed their changes before. 
+Normally, since you want to save your changes, you can `stash` your changes and then `pull` the remote changes.  
+However, if you want your changes to be overwritten by other members' changes, you can `reset hard` your code and then `pull` the remote changes.  
+
+Summarized: **You can hard reset your code when you want to overwrite your changes**
