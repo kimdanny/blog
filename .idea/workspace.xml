@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2cc885-93dc-41da-aa0c-11dc761114e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kimdanny.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/competitions/2019-07-17-titanic-EDA.md" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/competitions/2019-07-20-titanic-preprocessing.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/competitions/2019-07-28-kaggle-titanic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/competitions/2019-07-28-titanic-modelling.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/competitions/2019-08-22-kaggle-digit-recognizer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/competitions/2019-08-22-digit-recognizer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/deep-learning/2019-08-11-vgg16-19.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/deep-learning/2019-08-11-vgg16.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/deep-learning/2019-08-11-vgg19.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/mobile-app/2019-09-29-Intro-to-Flutter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/mobile-app/2019-09-29-Intro-to-Flutter.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/mobile-app/2019-09-30-Flutter-Settings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/mobile-app/2019-10-02-Flutter-codelabs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/2019-12-28-java-varargs.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/2019-12-28-java-varargs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/projects/2019-08-01-StyleTransfer-analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/projects/2019-08-10-StyleTransfer-changed.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/projects/2019-08-15-StyleTransfer-models-comparison.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/projects/2019-08-15-StyleTransfer-models-comparison.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/tech-introduction/2019-07-15-What-is-DataScience.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +28,7 @@
           <entry key="gitignore" value="1" />
           <entry key="html" value="25" />
           <entry key="jpg" value="4" />
-          <entry key="json" value="1" />
+          <entry key="json" value="3" />
           <entry key="md" value="180" />
           <entry key="xml" value="1" />
           <entry key="yml" value="6" />
@@ -58,7 +38,7 @@
         <counts>
           <entry key="HTML" value="25" />
           <entry key="Image" value="4" />
-          <entry key="JSON" value="1" />
+          <entry key="JSON" value="3" />
           <entry key="Markdown" value="180" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
@@ -69,6 +49,7 @@
         <counts>
           <entry key="gitignore" value="35" />
           <entry key="html" value="17" />
+          <entry key="json" value="5" />
           <entry key="md" value="45942" />
           <entry key="txt" value="385" />
           <entry key="yml" value="56" />
@@ -77,6 +58,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="17" />
+          <entry key="JSON" value="5" />
           <entry key="Markdown" value="45774" />
           <entry key="PLAIN_TEXT" value="420" />
           <entry key="Python" value="67" />
@@ -88,18 +70,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/random/2019-07-15-What-is-DataScience.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -148,11 +118,16 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="282">
+              <caret line="1879" column="34" lean-forward="true" selection-start-line="1879" selection-start-column="34" selection-end-line="1879" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -213,6 +188,9 @@
       <find>seo</find>
       <find>protot</find>
       <find>iter(</find>
+      <find>dependencies</find>
+      <find>mixin-deep</find>
+      <find>set-value</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -221,7 +199,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/scripts.html" />
         <option value="$PROJECT_DIR$/_posts/programming/2019-08-08-flatten-list.md" />
         <option value="$PROJECT_DIR$/_pages/category-list.html" />
         <option value="$PROJECT_DIR$/_pages/tag-archive.html" />
@@ -272,6 +249,7 @@
         <option value="$PROJECT_DIR$/_pages/about.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2019-08-15-StyleTransfer-models-comparison.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
       </list>
     </option>
   </component>
@@ -706,7 +684,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2918455" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2918455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -720,7 +698,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.46746987" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2686747" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -787,12 +765,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="flattening list" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/analytics-providers/custom.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/tags.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head/custom.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1178,6 +1150,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/software-engineering/2019-10-04-Introduction_hci.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1188,10 +1167,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="282">
+          <caret line="1879" column="34" lean-forward="true" selection-start-line="1879" selection-start-column="34" selection-end-line="1879" selection-end-column="34" />
         </state>
       </provider>
     </entry>
