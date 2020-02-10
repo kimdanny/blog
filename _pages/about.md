@@ -118,12 +118,12 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 
 ### Teaching Experience / Workshops
 * **Workshops**  
-  *UCL AI Society ML tutorials*
+  *UCL AI Society ML tutorials*  
   Machine Learning tutorial 1: Intro to Exploratory Data Analysis (27th Feb 2020)  
   Machine Learning tutorial 2: Intro to Scikit-Learn (5th Mar 2020)  
   
 * **Teaching Assistant**  
-  *UCL AI Society tutorials*
+  *UCL AI Society tutorials*  
   Python tutorial 1: Build your own calculator (15th Nov 2019)  
   Python tutorial 2: Build your own dice roller game (29th Nov 2019)  
   Python tutorial 3: Build your own Twitter feed scraper (6th Dec 2019)  

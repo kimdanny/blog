@@ -31,7 +31,15 @@ Now let's find out some of the useful and good-to-know Unix Commands.
 
 ### ls -a
 
+### ls -la
+
 ## rm
+
+### rmdir
+
+### rm -R
+
+### rm -iR
 
 ## cat
 
