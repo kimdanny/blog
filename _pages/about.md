@@ -6,7 +6,7 @@ toc_label: "Quick Guide"
 toc_icon: "cog"
 ---
 Currently a 2nd year BSc Computer Science student at University College London.
-I am particularly passionate about Machine Learning and Deep Learning.
+I am particularly into Machine Learning including Deep Learning.
 To request my CV, please send me an [email](mailto:dannykim153@gmail.com).  
 
 As the title of this blog (**TEKnology**) implies, this is a Tech-related blog posting site by *To Eun Kim (TEK)*  
@@ -27,15 +27,15 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   - Design and Professional Skills (Debugging Skills and Python Programming)
   - Discrete Mathematics for Computer Science
   - Engineering Challenges (Hardware Engineering with FPGA, MIPS and Quartus Prime)
-  - Object Oriented Programming (Java, Tomcat, JSP)
+  - Object Oriented Programming (Java, Tomcat, JSP, Data structures in Java)
   - Principles of Programming (C, Haskell, Arduino)
   - Theory of Computation
   
   **Modules - Penultimate Year**
-  - Systems Engineering
-  - Software Engineering
-  - Computer Architecture and Concurrency
-  - Logic and Database Theory
+  - Systems Engineering (Collaboration with RCGP and CarefulAI)
+  - Software Engineering (Building a bash-like java shell from scratch with team mates)
+  - Computer Architecture and Concurrency (MIPS and Concurrent Programming with Java)
+  - Logic and Database Theory (MySQL and Logic)
   - Mathematics and Statistics
   - Security
   - Engineering Mathematics for Finance (Elective module)
@@ -115,7 +115,17 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 * **Digit Recognizer (Kaggle)**  
   public score: 0.99000
 
-<!--
-### Talks / Lectures
-ucl ai soc ML tutorial
--->
+
+### Teaching Experience / Workshops
+* **Workshops**  
+  *UCL AI Society ML tutorials*
+  Machine Learning tutorial 1: Intro to Exploratory Data Analysis (27th Feb 2020)  
+  Machine Learning tutorial 2: Intro to Scikit-Learn (5th Mar 2020)  
+  
+* **Teaching Assistant**  
+  *UCL AI Society tutorials*
+  Python tutorial 1: Build your own calculator (15th Nov 2019)  
+  Python tutorial 2: Build your own dice roller game (29th Nov 2019)  
+  Python tutorial 3: Build your own Twitter feed scraper (6th Dec 2019)  
+  Reinforcement Learning 1 (12th Mar 2020)  
+  Reinforcement Learning 2 (19th Mar 2020)  

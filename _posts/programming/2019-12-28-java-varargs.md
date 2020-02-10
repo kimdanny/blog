@@ -45,4 +45,5 @@ You can find variable arguments example from java `ProcessBuilder`.
 public ProcessBuilder(String... command) 
 ```
 
-
+https://www.geeksforgeeks.org/variable-arguments-varargs-in-java/
+https://docs.oracle.com/javase/7/docs/api/java/lang/ProcessBuilder.html

@@ -19,3 +19,25 @@ titled "Flutter for Designers" held at '[Google for Startups, Seoul](https://www
 ## 2. Where can I learn Flutter?
 
 [Google Codelabs](https://codelabs.developers.google.com)
+
+## 3. Download the Flutter SDK
+To download the latest version of the Flutter SDK, go [here](https://flutter.dev/docs/get-started/install/macos)
+and click the big blue button.  
+
+## 4. Install Android Studio
+
+
+### 4-1. Install Xcode (optional)
+
+
+## 5. Detailed Set-up in Android Studio
+
+## 6. Flutter Codelabs
+
+### 101
+
+### 102
+
+### 103
+
+### 104
