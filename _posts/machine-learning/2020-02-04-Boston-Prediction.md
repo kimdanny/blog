@@ -36,8 +36,6 @@ from sklearn.metrics import mean_squared_error
 
 ```python
 BOSTON_DATA = datasets.load_boston()
-# TODO: get rid of the semicolon and see how the data look like.
-BOSTON_DATA;
 ```
 
 ## Simple EDA
@@ -46,9 +44,9 @@ BOSTON_DATA;
 ```python
 # Load both boston data and target, and convert it as dataframe.
 def add_target_to_data(dataset):
-    # TODO: make the raw dataset cleaner and easier to process -> use dataframe
+    # make the raw dataset cleaner and easier to process -> use dataframe
     df = pd.DataFrame(dataset.data, columns=dataset.feature_names)
-    # TODO: put the target data (price) to the dataframe we just made.
+    # put the target data (price) to the dataframe we just made.
     print("Before adding target: ", df.shape)
     df['PRICE'] = dataset.target
     print("After adding target: {} \n {}\n".format(df.shape, df.head(2)))
@@ -67,7 +65,7 @@ def plotting_graph(df, features, n_row=2, n_col=5):
 
     assert len(features) == n_row * n_col
 
-    # TODO: Draw a regression graph using seaborn's regplot
+    # Draw a regression graph using seaborn's regplot
     for i, feature in enumerate(features):
         row = int(i / n_col)
         col = i % n_col
@@ -84,7 +82,7 @@ def split_dataframe(df):
     # axis!! --> Whether to drop labels from the index (0 or ‘index’) or columns (1 or ‘columns’).
     input_data = df.drop(['PRICE'], axis=1)
 
-    # TODO: split! Set random_state if you want consistently same result
+    # split! Set random_state if you want consistently same result
     input_train, input_eval, label_train, label_eval = train_test_split(input_data, label_data, test_size=0.3,
                                                                         random_state=42)
 
@@ -122,9 +120,8 @@ If the value is close to 1, it means that there is a strong positive correlation
 When it is close to -1, the variables have a strong negative correlation.
 '''
 correlation_matrix = boston_df.corr().round(2)
-correlation_matrix
 ```
-
+Output: 
 
 
 
@@ -511,16 +508,15 @@ pred_record = {}
 
 ```python
 for name, model in models.items():
-    # TODO: Load your machine learning model
+    # Load your machine learning model
     curr_model = model
-    # TODO: Train!
+    # Train!
     curr_model.fit(X_train, Y_train)
-    # TODO: make prediction with unseen data!
+    # make prediction with unseen data!
     pred = curr_model.predict(X_test)
     expectation = Y_test
-    # TODO: what is mse between the answer and your prediction?
+    # what is mse between the answer and your prediction?
     mse = mean_squared_error(expectation, pred)
-    # TODO: RMSE
     rmse = np.sqrt(mse)
 
     print('{} MSE: {}, {} RMSE: {}'.format(name, mse, name, rmse))
