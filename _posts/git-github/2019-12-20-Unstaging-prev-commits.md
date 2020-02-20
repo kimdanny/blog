@@ -4,7 +4,6 @@ categories:
   - git-github
 tags:
   - git
-  - github
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
