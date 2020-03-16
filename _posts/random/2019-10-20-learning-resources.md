@@ -23,7 +23,7 @@ toc_icon: "cog"
 - [Geeks for Geeks](https://www.geeksforgeeks.org)
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [StackOverflow](https://stackoverflow.com) (for general questions)
-
+- [MIT Missing Semester](https://missing.csail.mit.edu/)  (things you will never learn in CS Lectures)  
 
 **For Specific Topics**
 ### Algorithms
