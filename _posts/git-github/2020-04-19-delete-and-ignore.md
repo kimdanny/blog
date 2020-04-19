@@ -1,5 +1,5 @@
 ---
-title: "How to (recursively) delete files and ignore files/folders on git/github"
+title: "How to (recursively) delete and ignore files/folders on github - Remove cache from tree"
 categories:
   - git-github
 tags:
