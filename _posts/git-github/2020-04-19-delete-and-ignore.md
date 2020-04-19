@@ -8,7 +8,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-### Background
+## Background
 You have mistakenly committed and even pushed unnecessary files or folders, such as .idea, .DS_Store, target folder. 
 You now want to un-push / delete those from Github and stop tracking the changes from those files. 
 You make a plan to delete those manually from Github, and then pull the remote changes from local repository. 
