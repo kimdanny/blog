@@ -16,7 +16,7 @@ defaults write com.apple.finder AppleShowAllFiles YES
 
 Then to refresh your Finder, type
 ```
-Killall Finder to refresh
+Killall Finder
 ```
 
 To revert this setting, type NO instead of YES:
