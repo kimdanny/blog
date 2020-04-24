@@ -4,9 +4,7 @@ categories:
   - random
 tags:
   - Mac
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
+toc: false
 ---
 In your terminal by typing `ls -la` you can look at the hidden folders and files, 
 but you can also set your Finder to show those hidden ones.  
