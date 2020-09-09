@@ -5,21 +5,24 @@ toc: true
 toc_label: "Quick Guide"
 toc_icon: "cog"
 ---
-Currently a 2nd year BSc Computer Science student at University College London.
-I am particularly into Machine Learning including Deep Learning.
-To request my CV, please send me an [email](mailto:dannykim153@gmail.com).  
+Disclaimer: This post won't be constantly updated. Please feel free to request my CV via my email: [dannykim153@gmail.com](mailto:dannykim153@gmail.com) for updated information.
+
+---
+
+3rd year MEng. Computer Science student at University College London.
+I am particularly into Machine Learning and Deep Learning.
 
 As the title of this blog (**TEKnology**) implies, this is a Tech-related blog posting site by *To Eun Kim (TEK)*  
 
-By the way, if you can understand Korean, you can check out my [Korean blogging site](https://teknology.tistory.com) as well :)
+BTW, if you can understand Korean, you can check out my [Korean blogging site](https://teknology.tistory.com) as well :)
 
 ## Danny Toeun Kim
 
 ### Education
 
-* **University College London (UCL-CS'21)**  
-  **BSc Computer Science**  
-  *Sep 2018 - Jun 2021(expected) / London, UK*
+* **University College London (UCL-CS'22)**  
+  **MEng. Computer Science**  
+  *Sep 2018 - Jun 2022(expected) / London, UK*
   
   **Modules - 1st Year**
   - Algorithms (Data Structure and Algorithms)
@@ -31,7 +34,7 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   - Principles of Programming (C, Haskell, Arduino)
   - Theory of Computation
   
-  **Modules - Penultimate Year**
+  **Modules - 2nd Year**
   - Systems Engineering (Collaboration with RCGP and CarefulAI)
   - Software Engineering (Building a bash-like java shell from scratch with team mates)
   - Computer Architecture and Concurrency (MIPS and Concurrent Programming with Java)
@@ -93,7 +96,7 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
 
 ### Stacks
 * **Languages**    
-    Python 3, Java, C, Haskell, MySQL
+    Python, R, Java, C, Haskell, SQL
 * **Libraries**  
     Numpy, Pandas, Scikit-learn, OpenCV, Matplotlib, Seaborn
 * **Frameworks**  
@@ -127,5 +130,4 @@ By the way, if you can understand Korean, you can check out my [Korean blogging 
   Python tutorial 1: Build your own calculator (15th Nov 2019)  
   Python tutorial 2: Build your own dice roller game (29th Nov 2019)  
   Python tutorial 3: Build your own Twitter feed scraper (6th Dec 2019)  
-  Reinforcement Learning 1 (12th Mar 2020)  
-  Reinforcement Learning 2 (19th Mar 2020)  
+  
