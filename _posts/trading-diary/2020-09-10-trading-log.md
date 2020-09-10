@@ -5,6 +5,9 @@ categories:
 tags:
   - tech-stocks
   - stocks
+toc: true
+toc_label: "Date Navigator"
+toc_icon: "cog"
 ---
 Started trading in Korean and US stock market since early August. Learning and experiencing by hands day by day, time by time. 
 I want to log (more or less scribble down) my daily or weekly strategies over the market and lessons (whether it's a painful or joyful one) I learn in this post.
