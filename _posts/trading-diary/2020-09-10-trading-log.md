@@ -53,6 +53,7 @@ Value Funds tended to lose more of their assets compared to that of Index Funds.
 Bull Bull Bull, are all the bubbles gone now?
 
 **Before Market Opens**  
+These days I'm studying and finding under-valued little companies with SPAC on thier path. _GMHI_ and _HCAC_ are the ones.
 - Dow Jones will likely to underperform compared to yesterday
 - At 10AM EDT Velodyne will pitch their plan in the 2020 Citi's Global Technology Virtual Conference
 - Should I sell GRAF now?
