@@ -25,7 +25,7 @@ Turned out that, I was lucky enough to know the company earlier than others and 
 Anyways, back to the main point, I'm gonna share my trading journey with you guys. Logging will not gonna happen every trading day of course, but I'll try to jot down a bit as long as there's some valuable lesson I gained.
 Enjoy!
 
-### 04 SEP 2020
+## 04 SEP 2020
 Bearish! 
 I'm now writing this sentence during the pre-market trading hour and I see the most biggest drop I've ever seen.
 
@@ -37,7 +37,7 @@ Keywords in Bearish market: Shorts, Inverse, Bonds. I sold my ARKQ, which I prof
 Still reserving LIT (Secondary Battery ETF) and BOTZ (Robotics and AI ETF) as I'm planning long term investment on those. #hodl
 
 
-### 08 SEP 2020
+## 08 SEP 2020
 After the mass plummet... Will the bubble keep popping? Let's see how it goes... #hodl again
 
 **Before Market Opens**  
@@ -52,7 +52,7 @@ Bearish market continues, but GRAF has gone up... why? SQQQ is beginning to rebo
 Value Funds tended to lose more of their assets compared to that of Index Funds. Bought 2 shares of Apple at $119.
 
 
-### 10 SEP 2020
+## 10 SEP 2020
 Bull Bull Bull, are all the bubbles gone now?
 
 **Before Market Opens**  
