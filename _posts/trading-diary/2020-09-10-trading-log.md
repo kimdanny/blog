@@ -12,7 +12,7 @@ toc_icon: "cog"
 Started trading in Korean and US stock market since early August. Learning and experiencing by hands day by day, time by time. 
 I want to log (more or less scribble down) my daily or weekly strategies over the market and lessons (whether it's a painful or joyful one) I learn in this post.
 I believe that one who keeps track of the past and learn from them has lower chance to lose in any form of _game_.  
-Both Korean and US market has seen a dramatic soar, especially led by some tech stocks, after a plummet from February to March due to the outbreak of Covid-19.
+Both Korean and US market have seen a dramatic soar, especially led by some tech stocks, after a plummet from February to March due to the outbreak of Covid-19.
 Probably the early August, where I started to trade was not an ideal time to hop in to this bubbled(?) market.
 The first stock I've ever bought was _Samsung Electronics_. 
 Without really planning any strategies in mind or scrutinise their business plans, I did not hesitate to buy Samsung, whose market cap was the highest in KRX. 
