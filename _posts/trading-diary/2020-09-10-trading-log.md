@@ -100,7 +100,7 @@ Luminar's Lidar can be embedded, rather than attached, on the roof of the car, s
 
 - Price is lower than Velodyne. Some people might say this can't be a mojor reason for investment, but in SPAC investment this makes sense a lot. SPAC HAS MINIMUM GUARANTEED PRICE. 
     Normally set to 10 dollars, from which both GRAF\'s and GMHI\'s price was started. Even if they failed to make their company be listed in market, investors will get their 10 dollars back from them. 
-    The price of GRAF had gone up to $30 from $10, while GMHI's price had gone up to $12 from $10. 
+    The price of GRAF had gone up to \$30 from \$10, while GMHI's price had gone up to \$12 from \$10. 
     I'm not sure if Luminar's technology is better than that of Velodyne, but Luminar seems more attractive to me, because this is where impossibility (deemed by majority) can happen, '_low risk, high return_'.
 
 - Young and innovative CEO, who dropped out of his college and found \$3B worth startup. (Just an extra fun reason, which looks quite cool to me)
