@@ -79,12 +79,12 @@ $30 - $31 was a local maximum price according to my judgement, so I sold it on a
 
 ## 15 SEP 2020
 My decision on GRAF and NNOX was a great move!   
-GRAF has dramatically touched down to 25 dollars, and NNOX... fell by 20% for two days in a row, making -40% dip eventually... haha
+GRAF has dramatically touched down to 25 dollars, and NNOX... fell by 20% for two days in a row, making -40% dip in total... haha
 
 +\) Last friday, with the money I gained from GRAF, I bought GMHI, another SPAC for 'Luminar', one of the greatest competitor of Velodyne.
 
 **Luminar, where my new investment goes, in replace of Velodyne**   
-Disclaimer: Doesn't mean that I gave up on Velodyne though! I'll keep my eye on both of them (Velodyne is aiming to finish their SPAC period in 3rd quarter 2020).
+Disclaimer: Doesn't mean that I ditched Velodyne though! I'll keep my eye on both of them (Velodyne is aiming to finish their SPAC period in 3rd quarter 2020).
 
 Luminar the lidar startup again that burst onto the autonomous vehicle scene in April 2017 after operating for years in secrecy, 
 was merged with SPAC, called Gores Metropoulos Inc., with a post-deal market valuation of $3.4 billion, which is bigger than that of Velodyne has announced as their valuation.
@@ -99,9 +99,9 @@ Luminar's Lidar can be embedded, rather than attached, on the roof of the car, s
 - They've got more famous sponsors
 
 - Price is lower than Velodyne. Some people might say this can't be a mojor reason for investment, but in SPAC investment this makes sense a lot. SPAC HAS MINIMUM GUARANTEED PRICE. 
-Normally set to $10, from which both GRAF\'s and GMHI\'s price was started. Even if they failed to make their company be listed in market, investors will get their 10 dollars back from them. 
-The price of GRAF had gone up to $30 from $10, while GMHI's price had gone up to $12 from $10. 
-I'm not sure if Luminar's technology is better than that of Velodyne, but Luminar seems more attractive to me, because this is where impossibility (deemed by majority) can happen, '_low risk, high return_'.
+    Normally set to 10 dollars, from which both GRAF\'s and GMHI\'s price was started. Even if they failed to make their company be listed in market, investors will get their 10 dollars back from them. 
+    The price of GRAF had gone up to $30 from $10, while GMHI's price had gone up to $12 from $10. 
+    I'm not sure if Luminar's technology is better than that of Velodyne, but Luminar seems more attractive to me, because this is where impossibility (deemed by majority) can happen, '_low risk, high return_'.
 
 - Young and innovative CEO, who dropped out of his college and found \$3B worth startup. (Just an extra fun reason, which looks quite cool to me)
 
