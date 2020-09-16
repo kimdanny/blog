@@ -96,12 +96,12 @@ one of its major use cases is automobile for sure. Velodyne's lidar rotates 360 
 Luminar's Lidar can be embedded, rather than attached, on the roof of the car, still allowing good-looking design of a car.
 
 - Better range of vision (they say)
+- They've got more famous sponsors
 
 - Price is lower than Velodyne. Some people might say this can't be a mojor reason for investment, but in SPAC investment this makes sense a lot. 
-SPAC HAS MINIMUM PRICE. Normally set to \$10, from which both GRAF's and GMHI's price was started. Even if they failed to make their company listed in market, investors will get their 10 dollars back from them. 
+SPAC HAS MINIMUM PRICE. Normally set to $10, from which both GRAF's and GMHI's price was started. Even if they failed to make their company listed in market, investors will get their 10 dollars back from them. 
 The price of GRAF had gone up to $30 from $10, while GMHI's price had gone up to $12 from $10. 
-I'm not sure if Luminar's technology is better than that of Velodyne, 
-but Luminar is more attractive place for investors and this is the way I see Luminar.
+I'm not sure if Luminar's technology is better than that of Velodyne, but Luminar is more attractive place for investors and this is the way I see Luminar.
 
 - Young and innovative CEO, who dropped out of his college and found \$3B worth startup. (Just an extra fun reason, which looks quite cool to me)
 
