@@ -68,8 +68,8 @@ The tech conference seems not very impactful to the share price of the GRAF, as 
 States are flipping! Nikola and GM saw their golden day after they've announced the cooperation, but now Tesla's winning...lol classic market
 
 ## 11 SEP 2020
-SOLD GRAF at $29 (on a downward move) with 50% overall profit, and  
-SOLD NNOX at $55 (on a upward move) with 20% profit, which I reached in just 2 days.
+SOLD GRAF at \$29 (on a downward move) with 50% overall profit, and  
+SOLD NNOX at \$55 (on a upward move) with 20% profit, which I reached in just 2 days.
 
 **Why did I sell GRAF**  
 Originally, GRAF was bought for a long-term investment as I evaluated Velodyne's value way much higher than its stock price. 
@@ -81,7 +81,7 @@ $30 - $31 was a local maximum price according to my judgement, so I sold it on a
 My decision on GRAF and NNOX was a great move!   
 GRAF has dramatically touched down to 25 dollars, and NNOX... fell by 20% for two days in a row, making -40% dip in total... haha
 
-+\) Last friday, with the money I gained from GRAF, I bought GMHI, another SPAC for 'Luminar', one of the greatest competitor of Velodyne.
++\) Last friday, with the money I gained from GRAF, I bought GMHI, another SPAC for 'Luminar', one of the greatest competitors of Velodyne.
 
 **Luminar, where my new investment goes, in replace of Velodyne**   
 Disclaimer: Doesn't mean that I ditched Velodyne though! I'll keep my eye on both of them (Velodyne is aiming to finish their SPAC period in 3rd quarter 2020).
