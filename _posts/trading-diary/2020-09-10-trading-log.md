@@ -67,3 +67,41 @@ These days I'm studying and finding under-valued little companies with SPAC on t
 The tech conference seems not very impactful to the share price of the GRAF, as it did not show any special pattern from their chart.
 States are flipping! Nikola and GM saw their golden day after they've announced the cooperation, but now Tesla's winning...lol classic market
 
+## 11 SEP 2020
+SOLD GRAF at $29 (on a downward move) with 50% overall profit, and  
+SOLD NNOX at $55 (on a upward move) with 20% profit, which I reached in just 2 days.
+
+**Why did I sell GRAF**  
+Originally, GRAF was bought for a long-term investment as I evaluated Velodyne's value way much higher than its stock price. 
+However, at Citi tech conference they did not bring any new topic, which led their stock price to record historical decline after they're listed in the market.
+$30 - $31 was a local maximum price according to my judgement, so I sold it on a downward move at $29, still gaining over 50% profit.
+
+
+## 15 SEP 2020
+My decision on GRAF and NNOX was a great move!   
+GRAF has dramatically touched down to 25 dollars, and NNOX... fell by 20% for two days in a row, making -40% dip eventually... haha
+
++\) Last friday, with the money I gained from GRAF, I bought GMHI, another SPAC for 'Luminar', one of the greatest competitor of Velodyne.
+
+**Luminar, where my new investment goes, in replace of Velodyne**   
+Disclaimer: Doesn't mean that I gave up on Velodyne though! I'll keep my eye on both of them (Velodyne is aiming to finish their SPAC period in 3rd quarter 2020).
+
+Luminar the lidar startup again that burst onto the autonomous vehicle scene in April 2017 after operating for years in secrecy, 
+was merged with SPAC, called Gores Metropoulos Inc., with a post-deal market valuation of $3.4 billion, which is bigger than that of Velodyne has announced as their valuation.
+Once all done, Lumiar will maintain its name and will be listed on Nasdaq under the ticker symbol LAZR. The deal is expected to close in 4th quarter fo 2020.
+So why did I choose to invest on Luminar while my money is out from Velodyne?  
+
+- Luminar's lidar has better design that goes much better with cars. Although lidar is not only used in cars but also in other products and industries, 
+one of its major use cases is automobile for sure. Velodyne's lidar rotates 360 degrees while driving and kind of disturbs general car design once attached, as opposed to Luminar's.
+Luminar's Lidar can be embedded, rather than attached, on the roof of the car, still allowing good-looking design of a car.
+
+- Better range for detection (they say)
+
+- Price is lower than Velodyne. Some people might say this can't be a mojor reason for investment, but in SPAC investment this makes sense a lot.
+SPAC HAS MINIMUM PRICE normally set to $10, and both GRAF and GMHI started from $10. Even if they failed to make their company listed in market, investors will get their $10 back from them. 
+GRAF had gone up to $30 from $10, while GMHI had gone up to $12 from $10. I'm not sure if Luminar's technology is better than that of Velodyne, 
+but Luminar is more attractive place for investors and this is the way I see Luminar.
+
+- Young and innovative CEO, who dropped out of his college and found $3B valuated startup. (Just an extra fun reason, which looks quite cool to me)
+
+
