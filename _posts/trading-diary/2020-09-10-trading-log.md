@@ -45,11 +45,11 @@ After the mass plummet... Will the bubble keep popping? Let's see how it goes...
 - What will happen to QQQ and SQQQ
 - Professor Damodaran, dean of valuation, says that among those FAANG companies, Apple is the most over-valued company.
 - Index-ETF (S&P, DJ) Vs. Value-ETF (ARK)
-- Planning to buy Apple at $120
+- Planning to buy Apple at \$120
 
 **Thoughts or lessons after close**   
 Bearish market continues, but GRAF has gone up... why? SQQQ is beginning to rebound from their long hell-bound history.
-Value Funds tended to lose more of their assets compared to that of Index Funds. Bought 2 shares of Apple at $119.
+Value Funds tended to lose more of their assets compared to that of Index Funds. Bought 2 shares of Apple at \$119.
 
 
 ## 10 SEP 2020
@@ -68,8 +68,8 @@ The tech conference seems not very impactful to the share price of the GRAF, as 
 States are flipping! Nikola and GM saw their golden day after they've announced the cooperation, but now Tesla's winning...lol classic market
 
 ## 11 SEP 2020
-SOLD GRAF at \$29 (on a downward move) with 50% overall profit, and  
-SOLD NNOX at \$55 (on a upward move) with 20% profit, which I reached in just 2 days.
+SOLD GRAF at 29 dollars (on a downward move) with 50% overall profit, and  
+SOLD NNOX at 55 dollars (on a upward move) with 20% profit, which I reached in just 2 days.
 
 **Why did I sell GRAF**  
 Originally, GRAF was bought for a long-term investment as I evaluated Velodyne's value way much higher than its stock price. 
@@ -87,7 +87,7 @@ GRAF has dramatically touched down to 25 dollars, and NNOX... fell by 20% for tw
 Disclaimer: Doesn't mean that I ditched Velodyne though! I'll keep my eye on both of them (Velodyne is aiming to finish their SPAC period in 3rd quarter 2020).
 
 Luminar the lidar startup again that burst onto the autonomous vehicle scene in April 2017 after operating for years in secrecy, 
-was merged with SPAC, called Gores Metropoulos Inc., with a post-deal market valuation of $3.4 billion, which is bigger than that of Velodyne has announced as their valuation.
+was merged with SPAC, called Gores Metropoulos Inc., with a post-deal market valuation of \$3.4 billion, which is bigger than that of Velodyne has announced as their valuation.
 Once all done, Lumiar will maintain its name and will be listed on Nasdaq under the ticker symbol LAZR. The deal is expected to close in 4th quarter fo 2020.
 So why did I choose to invest on Luminar while my money is out from Velodyne?  
 
