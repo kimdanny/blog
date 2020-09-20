@@ -1,10 +1,12 @@
 ---
-title: "My personal takeaways from \'Facebook Wayfinder EMEA 2020\'"
+title: "My personal takeaways from Facebook Wayfinder EMEA 2020"
 categories:
   - random
 tags:
   - facebook
-
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 ## 15 minutes 1:1 session with a facebooker
@@ -78,8 +80,3 @@ I'm choosing modules these days, and considering between DB, Network, ML and AI.
     relevance to your position. For example, SW Engineering recruiter won't be too interested in your Data Engineering skills, so do not
     include all that you've done. Just include what's relevant to your future position.
     
-
-
-
-
-
