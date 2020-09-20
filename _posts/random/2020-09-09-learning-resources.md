@@ -144,3 +144,31 @@ This post will constantly be updated.
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz/featured) 
 - [생활코딩](https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA) (korean. 이고잉님)
 
+
+## Stanford CS Package
+- [Deep Learning](http://web.stanford.edu/class/cs230/)
+
+### Natural Language Processing
+- [CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)](http://web.stanford.edu/class/cs124/)
+- [CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)](http://web.stanford.edu/class/cs224n/)
+- [CS 224U: Natural Language Understanding (LINGUIST 188, LINGUIST 288)](http://web.stanford.edu/class/cs224u/)
+- [CS 276: Information Retrieval and Web Search (LINGUIST 286)](http://web.stanford.edu/class/cs2760)
+
+### Computer Vision
+- [CS 131: Computer Vision: Foundations and Applications](http://cs131.stanford.edu)
+- [CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning](http://web.stanford.edu/class/cs205l/)
+- [CS 231N: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [CS 348K: Visual Computing Systems](http://graphics.stanford.edu/courses/cs348v-18-winter/)
+
+### Others
+- [CS224W: Machine Learning with Graphs(Yong Dam Kim )](http://web.stanford.edu/class/cs224w/)
+- [CS 273B: Deep Learning in Genomics and Biomedicine (BIODS 237, BIOMEDIN 273B, GENE 236)](https://canvas.stanford.edu/courses/51037)
+- [CS 236: Deep Generative Models](https://deepgenerativemodels.github.io/)
+- [CS 228: Probabilistic Graphical Models: Principles and Techniques](https://cs228.stanford.edu/)
+- [CS 337: Al-Assisted Care (MED 277)](http://cs337.stanford.edu/)
+- [CS 229: Machine Learning (STATS 229)](http://cs229.stanford.edu/)
+- [CS 229A: Applied Machine Learning](https://cs229a.stanford.edu)
+- [CS 234: Reinforcement Learning](http://s234.stanford.edu)
+- [CS 221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/autumn2019/)
+
+
