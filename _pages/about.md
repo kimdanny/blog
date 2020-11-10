@@ -41,10 +41,19 @@ BTW, if you can understand Korean, you can check out my [Korean blogging site](h
   - Logic and Database Theory (MySQL and Logic)
   - Mathematics and Statistics
   - Security
-  - Engineering Mathematics for Finance (Elective module)
+  - Engineering Mathematics for Finance
+  
+  **Modules - 3rd Year**
+  - Stochastic Calculus and Uncertainty Analysis
+  - Data Mining and Analysis
+  - Database and Information Management Systems
+  - Networked Systems
+  - Computability and Complexity Theory
+  - Computer Systems
+  - Research Methods and Group Research Project
   
   **Societies**
-  - Developer Relations at UCL Artificial Intelligence Society
+  - Developer Relations (19/20) and Head of Tutorials (20/21) at UCL Artificial Intelligence Society
   - Member of UCL Technology Society (Hackathons and Tech-Talks)
   - Member of UCL Engineering Society (Joined Drone Project)
   - Member of UCL Data Science Society (DS-with-Python Tutorials)
@@ -55,78 +64,94 @@ BTW, if you can understand Korean, you can check out my [Korean blogging site](h
   One year intensive A-Level equivalent course for Science and Engineering field.
   Studied Advanced Mathematics and Biology for elective modules.
 
-* **Sangmoon Highschool**   
-  *Mar 2014 - Feb 2017 / Seoul, South Korea*  
-  - Three years consecutive class representative
-  - English Parliamentary Debate Club (3 years)
-  - Humanities Academy (2 years)
+
+### Projects
+* [UCL AI Society ML Tutorial Series](https://github.com/UCLAIS/Machine-Learning-Tutorials)
+* [Dialogflow Chatbot Tester](https://github.com/kimdanny/Dialogflow-chatbot-tester)
+* [Covid-19 South Korea Dataset creation on Kaggle](https://www.kaggle.com/kimdanny/covid19-in-south-korea)
+* [Stock Price Forecaster using text data from news on LSTM networks](https://github.com/kimdanny/Quant)
+* [Naver Finance Crawler](https://github.com/kimdanny/Naver-Finance-Crawler)
+* [GOSH FHIR Dashboard (Hackathon at UCL)](https://github.com/kimdanny/GOSH-FHIRworks2020-FHIR_Dashboard)
+* [Relationship-Expert (Hackathon at Facebook London)](https://github.com/kimdanny/Relationship-Expert)
+* [Deep Neural Style Transfer Paper Implemenation](https://github.com/kimdanny/Style-Transfer)
+* [Logical Tableau Parser in C](https://github.com/kimdanny/Tableau-parser)
+* [Stero-view matching with DP](https://github.com/kimdanny/Stereo-Matching-with-Dynamic-Programming)
+* [Arduino Gardener and Dashboard](https://github.com/kimdanny/Gardener-project-arduino-and-processing-)
+* [Arduino Bio-reactor (team project)](https://github.com/kimdanny/CS-EEE-Bio-reactor)
+* [Tetris Game Autoplayer](https://github.com/kimdanny/Tetris-Auto-player)
 
 
-### Relevant Experience
-* **Developer Relations at UCL Artificial Intelligence Society**  
-  *October 2019 - Present / London, UK / at UCL*
-  Give a series of Machine Learning Tutorials.  
-  Help preparing for the course materials.  
-  Help students in the tutorials as a Teaching Assistant.  
-  As a Developer Relations, recruit like-minded student programmers/developers to the team.
+### Relevant Experience / Work
+Please visit [my LinkedIn](https://www.linkedin.com/in/danny-toeun-kim/) to view more in detail.
 
-* **Artificial Intelligence BootCamp**  
-  *June 2019 - Sep 2019 (3 months) / Seoul, South Korea*  
-  *Korea Advanced Institute of Science and Technology (KAIST)*  
-  AI School 실무자 양성과정 3기 (@양재 R&CD 혁신허브 with KAIST & 모두의 연구소 sponsored by Seoul City Government)
-  On June, took an intensive Machine Learning and Data Science online pre-course, provided by the BootCamp. 
-  From July to August by attending 5 hours of lectures 5 days a week, I covered much deeper part of it, 
-  including CNN, RNN and NLP to name just a few. 
-  During the last two months, two group projects (Kaggle Titanic & Deep Neural Style Transfer) 
-  and an individual project (MINIST Digit Recognizer) were proceeded and delivered a presentation on the last day.
+* **Machine Learning Bootcamp**  
+  *October 2020 - Present / Seoul, South Korea / @ Google Developers*
+
+* **CS Dept. Transition Mentor**  
+  *September 2020 - Present / London, UK / @ UCL*
+  
+* **Summer Data Analyst**  
+  *June 2020 - August 2020 / Seoul, South Korea / @ KB Securities (KB 증권)*
+
+* **Head of Tutorials**  
+  *March 2020 - Present / London, UK / @ UCL Artificial Intelligence Society*
+
+* **Chatbot Developer**  
+  *September 2019 - April 2020 / London, UK / @ Royal College of General Practitioners*
+
+* **Developer Relations**  
+  *October 2019 - March 2020 / London, UK / @ UCL Artificial Intelligence Society*
+
+* **Artificial Intelligence Bootcamp**  
+  *June 2019 - Sep 2019 / Seoul, South Korea*  
+  *@ Korea Advanced Institute of Science and Technology (KAIST)*  
   
 * **Invited Participant at Bank of America Merrill Lynch**  
-  *October 2018 / London, UK / at UCL*
+  *October 2018 / London, UK / @ UCL*  
+  <!--
   Invitation-only technical workshop.
   Found out more about the important role of 'Technology division' has in the running of their business. 
   Had the chance to do network with a number of representatives from Analyst up to Director level. 
-  Was given an insight into the campus programs, and what they look for in students.
+  Was given an insight into the campus programs, and what they look for in students. 
+  -->
 
 * **Google Technical Workshop**  
-  *October 2018 / London, UK / at UCL*
+  *October 2018 / London, UK / @ UCL*  
+  <!--
   Google Technical Workshop / Engineering at Google (hosted by UCL technology society)
   Google engineers pulled back the curtains on the interview process and walked through a practice question. 
   Took part in a tech talk on the the Google Calendar backend services. Learned about software and site reliability engineering, 
   as well as engineering at Google in general. 
+  -->
 
 ### Stacks
 * **Languages**    
-    Python, R, Java, C, Haskell, SQL
-* **Libraries**  
-    Numpy, Pandas, Scikit-learn, OpenCV, Matplotlib, Seaborn
-* **Frameworks**  
-    Tensorflow 2.0, Keras
+    Python, Java, C, R, SQL, Haskell
+* **ML Frameworks and libraries**  
+    TensorFlow 2.0, Keras, Scikit-learn
 * **OS**  
-    MacOS, Linux, Windows, CentOS
-* **Tools**  
-    Git/GitHub, Google Colab, Quartus Prime
+    Any UNIX-based systems
+* **Tools / Platforms**  
+    Git/GitHub, Docker, virtual environment, VM, GCP, Arduino
 
-### Projects
-* **Deep Neural Style Transfer Analysis**
-  <!-- blah blah -->
+
 
 ### Competitions
 * **Titanic: Machine Learning from Disaster (Kaggle)**  
-  Team Name: Spicy Koreans  
+  Team Name: Spicy Koreans ; [source code](https://github.com/kimdanny/Titanic_Kaggle)  
   public score: 0.80382 / Top 9%
 
 * **Digit Recognizer (Kaggle)**  
-  public score: 0.99000
+  public score: 0.99000 ; [source code](https://github.com/kimdanny/Digit-Recognizer)
 
 
-### Teaching Experience / Workshops
-* **Workshops**  
-  *UCL AI Society ML tutorials*  
-  Machine Learning tutorial 1: Intro to Exploratory Data Analysis (27th Feb 2020)  
-  Machine Learning tutorial 2: Intro to Scikit-Learn (5th Mar 2020)  
+### Teaching Experience
+* **Teaching**  
+  *UCL AI Society ML tutorial series*  
+  Detailed schedule and links can be found [here](https://github.com/UCLAIS/Machine-Learning-Tutorials) 
   
 * **Teaching Assistant**  
-  *UCL AI Society tutorials*  
+  *UCL AI Society python tutorials; [(source code)](https://github.com/UCLAIS/Python-Tutorials)*   
   Python tutorial 1: Build your own calculator (15th Nov 2019)  
   Python tutorial 2: Build your own dice roller game (29th Nov 2019)  
   Python tutorial 3: Build your own Twitter feed scraper (6th Dec 2019)  
