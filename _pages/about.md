@@ -75,7 +75,7 @@ BTW, if you can understand Korean, you can check out my [Korean blogging site](h
 * [Relationship-Expert (Hackathon at Facebook London)](https://github.com/kimdanny/Relationship-Expert)
 * [Deep Neural Style Transfer Paper Implemenation](https://github.com/kimdanny/Style-Transfer)
 * [Logical Tableau Parser in C](https://github.com/kimdanny/Tableau-parser)
-* [Stero-view matching with DP](https://github.com/kimdanny/Stereo-Matching-with-Dynamic-Programming)
+* [Stereo-view matching with DP](https://github.com/kimdanny/Stereo-Matching-with-Dynamic-Programming)
 * [Arduino Gardener and Dashboard](https://github.com/kimdanny/Gardener-project-arduino-and-processing-)
 * [Arduino Bio-reactor (team project)](https://github.com/kimdanny/CS-EEE-Bio-reactor)
 * [Tetris Game Autoplayer](https://github.com/kimdanny/Tetris-Auto-player)
