@@ -55,6 +55,46 @@ Moreover, at economical point of view, you can achieve an 'Economy of scale', wh
 
 However, its complexity, which stems from its huge size and other additional systems, and higher impact of a failure can be its major drawbacks.  
 
+## 2. Three-level ANSI-SPARC Architecture
+The American National Standards Institute Standards Planning and Requirements Committee (ANSI-SPARC) 
+recognized the need for a three-level approach with a system catalog.
+Despite the fact that this model is not a current standard of the current DBMS, it is still valuable to learn 
+in that it gives a basis for understanding the core functionality of widely used DBMS.
+
+![relational DB](/images/db/three-level-ansi-sparc.png)     
+
+There are some important objectives of three-level architecture:
+- All users should be able to access the same data
+- A user's view is immune to changes made in other views
+- Users should not need to know physical DB storage details
+- Internal structure of DB should be unaffected by changes to physical aspects of storage
+- DBA should be able to change conceptual structure of DB without affecting all users
+
+**External Level** is users' view ot the database. 
+This describes the part of database that is relevant to a particular user.  
+
+**Conceptual Level** is community view of the database.
+This describes what data is stored in database and relationships among the data.  
+
+**Internal Level** is a physical representation of the database on the computer. 
+This describes how the data is stored in the database.
+
+## 3. Data Independence
+Major goal of the three-level architecture is to provide data independence: upper levels are unaffected by 
+changes to lower levels. Two types of data independence are _Logical Independence_ and _Physical Independence_.  
+
+**Logical Independence**:
+- Refers to immunity of external schemas to changes in conceptual schema.
+- Conceptual schema changes (addition or removal of entities)
+- DBMS should not require changes to external schema or rewrites of application programmes.
+
+**Physical Independence**:
+- Refers to immunity of conceptual schema to changes in the internal schema.
+- Internal schema changes (using different file organisations, storage structures)
+- DBMS should not require change to conceptual or external schemas.
+
+
+
 
 From next posts, we will discover how we can interact with DBMS and eventually with DB. Yes, it's about SQL (particularly MySQL).  
 
@@ -64,3 +104,5 @@ From next posts, we will discover how we can interact with DBMS and eventually w
 1. My note taken from Dr. John Dowell's lectures at UCL - COMP0009: Logic and Database Theory (19/20)
 2. Definition of DB and DBMS: [_https://en.wikipedia.org/wiki/Database_](https://en.wikipedia.org/wiki/Database)
 3. Definition of DB models: [_https://en.wikipedia.org/wiki/Database_model_](https://en.wikipedia.org/wiki/Database_model)
+4. My notes taken from Dr. John Dowell's lectures at UCL - COMP0022: Database and Information Management (20/21)
+5. Database Systems: A Practical Approach to Design, Implementation, and Management, 4th Edition by Thomas Connolly & Carolyn Begg
