@@ -29,7 +29,7 @@ If I apply for intern for next summer period, should I apply for Data Engineerin
 I'm choosing modules these days, and considering between DB, Network, ML and AI. Should I fully focus on DB and Network for my 3rd year?
 
 
-### Advices from facebookers 
+### Advice from facebookers 
 
 1. _**Should I focus on CS core modules before learning Data related subjects?**_
 
