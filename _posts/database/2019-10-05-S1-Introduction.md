@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Database and Database Management Systems(DBMS)"
+title: "DB (1) - Introduction to Database and Database Management Systems(DBMS)"
 categories:
   - database
 tags:
@@ -9,6 +9,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
+This is the first post of the [Database Series](https://kimdanny.github.io/categories/#database).
+
 ## 1. How can we manage our data?
 ### 1-1. File-based System
 File-based system is a contrasting concept to the database system.
