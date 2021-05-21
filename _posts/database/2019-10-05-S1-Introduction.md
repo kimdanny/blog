@@ -98,7 +98,7 @@ changes to lower levels. Two types of data independence are _Logical Independenc
 
 From next posts, we will discover how we can interact with DBMS and eventually with DB. Yes, it's about SQL (particularly MySQL).  
 
-[Link to the next post](https://kimdanny.github.io/database/mysql-1/).  
+[Link to the next post](https://kimdanny.github.io/database/S2-sql/).  
 
 #### Reference
 1. My note taken from Dr. John Dowell's lectures at UCL - COMP0009: Logic and Database Theory (19/20)
