@@ -5,16 +5,17 @@ toc: true
 toc_label: "Quick Guide"
 toc_icon: "cog"
 ---
-Disclaimer: This post won't be constantly updated. Please feel free to request my CV via my email: [dannykim153@gmail.com](mailto:dannykim153@gmail.com) for updated information.
-
+This post is about myself.  
+Disclaimer: This won't be constantly updated, but I'll try to :)
+Please feel free to email me ([dannykim153@gmail.com](mailto:dannykim153@gmail.com)) for more information.  
+View my CV [right here](/assets/CV.pdf)  
+Last Update: 10th July 2021
 ---
 
-3rd year MEng. Computer Science student at University College London.
+Becoming a final year M.Eng. Computer Science student at University College London (UCL).
 I am particularly into Machine Learning and Deep Learning.
 
-As the title of this blog (**TEKnology**) implies, this is a Tech-related blog posting site by *To Eun Kim (TEK)*  
-
-BTW, if you can understand Korean, you can check out my [Korean blogging site](https://teknology.tistory.com) as well :)
+As a title of this blog (**TEKnology**) implies, this is a Tech-related blog posting site by *To Eun Kim (TEK)*  
 
 ## Danny Toeun Kim
 
