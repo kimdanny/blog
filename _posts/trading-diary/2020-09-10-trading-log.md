@@ -106,3 +106,6 @@ Luminar's Lidar can be embedded, rather than attached, on the roof of the car, s
 - Young and innovative CEO, who dropped out of his college and found \$3B worth startup. (Just an extra fun reason, which looks quite cool to me)
 
 
+## 5 Jul 2021
+NVIDIA is soaring. Been waiting for this moment for over 8 months.
+

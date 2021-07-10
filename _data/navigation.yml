@@ -2,10 +2,12 @@
 main:
    - title: "About"
      url: "/about/"
-   - title: "Tag"
-     url: "/tags/"
+   - title: "Portfolio"
+       url: "/portfolio/"
    - title: "Category"
      url: "/categories/list"
+   - title: "Tag"
+       url: "/tags/"
   # - title: "Category"
   #   url: "/categories/"
   # - title: "Sample Collections"
@@ -13,30 +15,30 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar:
-  title: "AI Machine Learning"
-  nav: sidebar-contents
-  
-sidebar-contents:
-  - title: "Machine Learning"
-    children:
-      - title: "Reinforcement Learning"
-        url: "/categories/#reinforcementlearning"
-      - title: "PaperTranslation"
-        url: "/categories/#papertranslation"
-  - title: "Statistics"
-    children:
-      - title: "Linear Algebra"
-        url: "/categories/#linearalgebra"
-      - title: "Statistics"
-        url: "/categories/#statistics"
-  - title: "IT"
-    children:
-      - title: "OS kernel"
-        url: "/categories/#os-kernel"
-      - title: "IT Infra"
-        url: "/categories/#itinfra"
-      - title: "Programming"
-        url: "/categories/#programming"
-      - title: "BookReview"
-        url: "/categories/#bookreview"
+#sidebar:
+#  title: "AI Machine Learning"
+#  nav: sidebar-contents
+#
+#sidebar-contents:
+#  - title: "Machine Learning"
+#    children:
+#      - title: "Reinforcement Learning"
+#        url: "/categories/#reinforcementlearning"
+#      - title: "PaperTranslation"
+#        url: "/categories/#papertranslation"
+#  - title: "Statistics"
+#    children:
+#      - title: "Linear Algebra"
+#        url: "/categories/#linearalgebra"
+#      - title: "Statistics"
+#        url: "/categories/#statistics"
+#  - title: "IT"
+#    children:
+#      - title: "OS kernel"
+#        url: "/categories/#os-kernel"
+#      - title: "IT Infra"
+#        url: "/categories/#itinfra"
+#      - title: "Programming"
+#        url: "/categories/#programming"
+#      - title: "BookReview"
+#        url: "/categories/#bookreview"
