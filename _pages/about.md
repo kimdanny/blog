@@ -5,18 +5,9 @@ toc: true
 toc_label: "Quick Guide"
 toc_icon: "cog"
 --- 
-- **View my [CV](/assets/CV.pdf) in PDF**.
-- Feel free to email me ([dannykim153@gmail.com](mailto:dannykim153@gmail.com)) for more information.  
-- Please visit [my LinkedIn](https://www.linkedin.com/in/danny-toeun-kim/) to view more in detail.
-- As the title of this blog (**TEKnology**) implies, this is a tech-blog managed by *To Eun Kim (TEK)* 
-- Check out my [Projects Portfolio](https://kimdanny.github.io/portfolio/) too!
 
-Disclaimer: This won't be constantly updated, but I'll try to :)  
-Last Update: 10th July 2021
-
----
 ## Danny Toeun Kim
-
+View my [CV](/assets/CV.pdf) in PDF.  
 I'm a final year [M.Eng. Computer Science](https://www.ucl.ac.uk/computer-science/study/undergraduate/computer-science-meng) student 
 at [University College London (UCL)](https://www.ucl.ac.uk).
 I am particularly into NLP, knowledge representation, Information Retrieval 
@@ -118,3 +109,14 @@ such as [NLP paper reading group](https://github.com/jiphyeonjeon/season2), Boot
     Any UNIX-based systems
 * **Tools / Platforms**  
     Git/GitHub, Docker, AWS, GCP
+
+--- 
+
+- As the title of this blog (**TEKnology**) implies, this is a tech-blog managed by *To Eun Kim (TEK)* 
+- View my **[CV](/assets/CV.pdf)** in PDF.
+- Feel free to email me ([dannykim153@gmail.com](mailto:dannykim153@gmail.com)) for more information.  
+- Visit [my LinkedIn page](https://www.linkedin.com/in/danny-toeun-kim/).
+- Check out my [Projects Portfolio](https://kimdanny.github.io/portfolio/) too!
+
+Disclaimer: This won't be constantly updated, but I'll try to :)  
+Last Update: 10th July 2021
