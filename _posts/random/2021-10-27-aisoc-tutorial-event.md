@@ -8,7 +8,8 @@ tags:
 
 During 2020-2021, when we could not meet up and attend live lectures, 
 we, UCL AI Society, had no choice but to open our ML tutorial events (Season 1) virtually on Zoom.  
-Here, you can check our lecture recordings from season 1 -> [\[Youtube Playlist\]](https://youtube.com/playlist?list=PL4JaWnfkTBbOLFG8xW5Ggtj_nRpgyDhIQ).  
+Below, you can check our lecture recordings from season 1:  
+[\[Youtube Playlist\]](https://youtube.com/playlist?list=PL4JaWnfkTBbOLFG8xW5Ggtj_nRpgyDhIQ).  
 
 Although it was a big success, we couldn't wait for this moment to come...  
 Live lectures! Now that the Covid restrictions are far less strict than before, 
