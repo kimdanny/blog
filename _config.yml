@@ -128,7 +128,7 @@ author:
 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/TEKnologyy"
+       # url: "https://twitter.com/TEKnologyy"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
