@@ -20,7 +20,7 @@ More than 160 students have turned out to our first lecture
 ![first_lecture](/images/ai_soc/first_lecture.JPG)  
 
 We found the best lecture theatre for the large number of people  
-![auditorium](/images/ai_soc/auditorium.JPG)  
+![auditorium](/images/ai_soc/auditorium.jpeg)  
 
 This is me, teaching K-means clustering  
 ![me_teaching](/images/ai_soc/me_teaching.jpg)  
