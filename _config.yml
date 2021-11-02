@@ -22,7 +22,7 @@ subtitle                 : "ToEunKim's TEK blog/portfolio"  # site tagline that 
 name                     : "Danny Toeun Kim"
 description              : "My Journey to Computer Science"
 url                      : "https://kimdanny.github.io" # the base hostname & protocol for your site e.g. "https://kimdanny.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "kimdanny/kimdanny.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/ucl-portico.png"  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/ucl-portico.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "TEKnologyy"
 facebook:
   username               :
   app_id                 :
@@ -124,11 +124,11 @@ author:
 
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/danny-toeun-kim-5a3948171/"
+      url: "https://www.linkedin.com/in/danny-toeun-kim/"
 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+       url: "https://twitter.com/TEKnologyy"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
