@@ -33,7 +33,7 @@ such as [NLP paper reading group](https://github.com/jiphyeonjeon/season2), Boot
 (Check out [UCL Artificial Intelligence Society](https://github.com/UCLAIS), where I'm serving as a committee for three years).
 
 
-### Education
+<!-- ### Education
 * **University College London (UCL-CS'22)**  
   **MEng. Computer Science**  
   First-Class Honours  
@@ -110,6 +110,7 @@ such as [NLP paper reading group](https://github.com/jiphyeonjeon/season2), Boot
 * **Tools / Platforms**  
     Git/GitHub, Docker, AWS, GCP
 
+-->
 --- 
 
 - As the title of this blog (**TEKnology**) implies, this is a tech-blog managed by *To Eun Kim (TEK)* 
@@ -119,4 +120,4 @@ such as [NLP paper reading group](https://github.com/jiphyeonjeon/season2), Boot
 - Check out my [Projects Portfolio](https://kimdanny.github.io/portfolio/) too!
 
 Disclaimer: This won't be constantly updated, but I'll try to :)  
-Last Update: 10th July 2021
+Last Update: 7th May 2022
