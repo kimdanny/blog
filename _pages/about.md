@@ -53,10 +53,13 @@ such as [NLP paper reading group](https://github.com/jiphyeonjeon/season2), Boot
 
 
 ### Relevant Experience / Work
+* **Machine Learning Engineering Intern**  
+  *Jun 2022 - Aug 2022 / London, UK / @ Vector.ai*
+
 * **Amazon Alexa Prize TaskBot Challenge**  
   *May 2021 - Present / London, UK / @ UCL WI Group & Amazon*
   
-* **Undergrad Researcher**  
+* **Student Researcher**  
   *May 2021 - Present / London, UK / @ UCL WI Group*
 
 * **Machine Learning Bootcamp**  
