@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "ToEunKim's TEK blog/portfolio"  # site tagline that appears below site title in masthead
 name                     : "Danny To Eun Kim"
 description              : "My Journey to Computer Science"
-url                      : "" # the base hostname & protocol for your site e.g. "https://kimdanny.github.io"
+url                      : "https://kimdanny.github.io" # the base hostname & protocol for your site e.g. "https://kimdanny.github.io"
 baseurl                  : "blog" # the subpath of your site, e.g. "/blog"
 repository               : "kimdanny/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/ucl-portico.png"  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
