@@ -86,7 +86,7 @@ ax.legend(
 plt.show()
 ```
 This Image shows that they have the same time-wise performance.  
-![def_lambda](/images/def_lambda.png)  
+![def_lambda]({{ site.url }}{{ site.baseurl }}/images/def_lambda.png)  
 
 
 ### Bytecode disassembling

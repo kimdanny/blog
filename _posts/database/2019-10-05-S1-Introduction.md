@@ -61,7 +61,7 @@ recognized the need for a three-level approach with a system catalog.
 Despite the fact that this model is not a current standard of the current DBMS, it is still valuable to learn 
 in that it gives a basis for understanding the core functionality of widely used DBMS.
 
-![relational DB](/images/db/three-level-ansi-sparc.png)     
+![relational DB]({{ site.url }}{{ site.baseurl }}/images/db/three-level-ansi-sparc.png)     
 
 There are some important objectives of three-level architecture:
 - All users should be able to access the same data

@@ -38,7 +38,7 @@ plt.ylabel("Y")
 ```
 
 
-![png](/images/regressions/Session02-Regressions-Solution_3_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/regressions/Session02-Regressions-Solution_3_0.png)
 
 
 
@@ -131,7 +131,7 @@ Output:
 
 
 
-![png](/images/regressions/Session02-Regressions-Solution_6_1.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/regressions/Session02-Regressions-Solution_6_1.png)
 
 
 Play around with learning rate and iteration, and try to find the best learning rate!  
@@ -184,7 +184,7 @@ plt.show()
 ```
 
 
-![png](/images/regressions/Session02-Regressions-Solution_10_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/regressions/Session02-Regressions-Solution_10_0.png)
 
 
 ## Multiple Linear Regression
@@ -360,7 +360,7 @@ plotting_learning_curves(linear_model, x, y)
 ```
 
 
-![png](/images/regressions/Session02-Regressions-Solution_20_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/regressions/Session02-Regressions-Solution_20_0.png)
 
 
 ## Other Regressions
@@ -430,5 +430,5 @@ plt.show()
 ```
 
 
-![png](/images/regressions/Session02-Regressions-Solution_25_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/regressions/Session02-Regressions-Solution_25_0.png)
 

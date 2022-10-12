@@ -109,7 +109,7 @@ plotting_graph(boston_df, features, n_row=2, n_col=5)
 
 
 
-![png](/images/boston/Session02-BostonHousePrice-Solution_7_1.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/boston/Session02-BostonHousePrice-Solution_7_1.png)
 
 
 
@@ -411,7 +411,7 @@ plt.show()
 ```
 
 
-![png](/images/boston/Session02-BostonHousePrice-Solution_9_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/boston/Session02-BostonHousePrice-Solution_9_0.png)
 
 
 ## Prediction with Linear Regression
@@ -469,7 +469,7 @@ plt.tight_layout()
 ```
 
 
-![png](/images/boston/Session02-BostonHousePrice-Solution_12_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/boston/Session02-BostonHousePrice-Solution_12_0.png)
 
 
 ## Prediction with other Regression methods
@@ -546,7 +546,7 @@ plt.tight_layout()
 ```
 
 
-![png](/images/boston/Session02-BostonHousePrice-Solution_18_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/boston/Session02-BostonHousePrice-Solution_18_0.png)
 
 
 
@@ -561,7 +561,7 @@ plt.tight_layout()
 ```
 
 
-![png](/images/boston/Session02-BostonHousePrice-Solution_19_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/boston/Session02-BostonHousePrice-Solution_19_0.png)
 
 
 
@@ -576,7 +576,7 @@ plt.tight_layout()
 ```
 
 
-![png](/images/boston/Session02-BostonHousePrice-Solution_20_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/boston/Session02-BostonHousePrice-Solution_20_0.png)
 
 
 ## A Little Taster Session for Neural Network
@@ -660,5 +660,5 @@ plt.tight_layout()
 ```
 
 
-![png](/images/boston/Session02-BostonHousePrice-Solution_26_1.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/boston/Session02-BostonHousePrice-Solution_26_1.png)
 

@@ -49,10 +49,10 @@ $ virtualenv --system-site-packages -p pythonN NAME
 **Fourth, let's take a look at the newly create file.**
 
 Inside the file tf2, file structure looks like below:
-![overview](/images/virtualenv/tf2.png)   
+![overview]({{ site.url }}{{ site.baseurl }}/images/virtualenv/tf2.png)   
 
 And inside the bin:  
-![inside_bin](/images/virtualenv/inside_bin.png)
+![inside_bin]({{ site.url }}{{ site.baseurl }}/images/virtualenv/inside_bin.png)
 
 Below is a code snippet of the file activate (not the whole code of course).  
 tf2/bin/activate:
