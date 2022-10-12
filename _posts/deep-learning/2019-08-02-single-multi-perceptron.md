@@ -16,12 +16,12 @@ The idea of perceptron stems from the human's neural network system. A 'Neuron' 
 the whole neural system. In 1943, Doctor Warren McCulloch and Walter Pitts had suggested a concept of artificial
 computerised neuron, which is a 'Perceptron'.
 
-![neuron](/images/perceptron/neuron_wiki.png)
+![neuron](blog/images/perceptron/neuron_wiki.png)
 <!-- how can i describe an image with small font -->
 
 The image above is a descriptive drawing of a biological neuron. Neurons are connected in a really complex order with each other, and an output signal from one neuron cell heads to the dendrites of its adjacent neuron cell, acting as an input signal to that neuron cell. Those input signals are accumulated in a cell body, and if the accumulated signals exceed a certain threshold, an output signal travels out from the cell through Axon and Telodendria. Below is an image from [Khan academy synapse explanation](https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse), which can help you understand the concept of threshold.
 
-![action potential](/images/perceptron/action_potential_khan.png)
+![action potential](blog/images/perceptron/action_potential_khan.png)
 
 ## 2. **Single Layer Perceptron**
 ![SLP](/images/perceptron/SLP.png)
@@ -111,7 +111,7 @@ for x1, x2 in array:
 ```
 
 ## 3. **Multiple Layer Perceptron**
-![MLP](/images/perceptron/MLP.jpg)  
+![MLP](blog/images/perceptron/MLP.jpg)  
 By connecting multiple number of single perceptrons like our body does, you can create much more complex
 and efficient structure and we call that Multi Layer Perceptron (MLP). Because it has multiple layers, there is a presence of at least one hidden layer, which is not actually connected to the inputs and outputs of the structure. MLP will be discussed much in detail from the next blog post, which is about training the network.
 
@@ -196,7 +196,7 @@ plt.legend(['y = softmax(x)', 'y = sigmoid(x)', 'y = tanh(x)', 'y = ReLU(x)'])
 plt.grid()
 plt.show()
 ```
-![Visualisation](/images/perceptron/activation_functions.png)
+![Visualisation](blog/images/perceptron/activation_functions.png)
 
 ### 4-3. Outputting final outcome (eg. Softmax)
 Softmax function is worth putting an emphasis on,
