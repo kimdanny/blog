@@ -16,7 +16,7 @@ The idea of perceptron stems from the human's neural network system. A 'Neuron' 
 the whole neural system. In 1943, Doctor Warren McCulloch and Walter Pitts had suggested a concept of artificial
 computerised neuron, which is a 'Perceptron'.
 
-![neuron](assets/images/perceptron/neuron_wiki.png)
+![neuron]({{ site.url }}{{ site.baseurl }}/images/perceptron/neuron_wiki.png)
 <!-- how can i describe an image with small font -->
 
 The image above is a descriptive drawing of a biological neuron. Neurons are connected in a really complex order with each other, and an output signal from one neuron cell heads to the dendrites of its adjacent neuron cell, acting as an input signal to that neuron cell. Those input signals are accumulated in a cell body, and if the accumulated signals exceed a certain threshold, an output signal travels out from the cell through Axon and Telodendria. Below is an image from [Khan academy synapse explanation](https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse), which can help you understand the concept of threshold.
