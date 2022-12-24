@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-GB" #"en-US" #"ko-KR"
 title                    : "TEKnology"
 title_separator          : "-"
-subtitle                 : "ToEunKim's TEK blog/portfolio"  # site tagline that appears below site title in masthead
+subtitle                 : "ToEunKim's TEK blog"  # site tagline that appears below site title in masthead
 name                     : "Danny To Eun Kim"
 description              : "My Journey to Computer Science"
 url                      : "https://kimdanny.github.io" # the base hostname & protocol for your site e.g. "https://kimdanny.github.io"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Danny Toeun Kim"
+  name             : "Danny To Eun Kim"
   avatar           : "images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Final Year in MEng Computer Science @ University College London.
                       ML/NLP/Dialog System/Info Retrieval"
@@ -116,7 +116,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dannykim153@gmail.com
+      url: mailto:to.kim.17@ucl.ac.uk
 
     - label: "UCL"
       icon: "fas fa-university"
@@ -128,7 +128,8 @@ author:
 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       # url: "https://twitter.com/TEKnologyy"
+      url: "https://twitter.com/TEKnologyy"
+
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
