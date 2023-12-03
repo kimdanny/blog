@@ -95,6 +95,7 @@ This post will constantly be updated.
 - [Bloomberg's Foundation of ML](https://bloomberg.github.io/foml/#home)
 - [Deep Learning with PyTorch - Book in pdf](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 - [Daniel Bourke's self-created AI Masters Degree](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e)
+- [AI Glossary](https://www.aiprm.com/resources/guides/generative-ai-glossary/) (suggested by Fullers Library)
 
 **ML/DL in Korean**
 - [Hunkim's 모두를 위한 머신러닝](http://hunkim.github.io/ml/)
